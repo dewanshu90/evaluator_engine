@@ -1,0 +1,679 @@
+{
+  "student_name": "Student_13",
+  "evaluation_date": "2025-11-07T22:32:21.145260",
+  "total_score": 6.3,
+  "max_score": 9,
+  "percentage": 70.0,
+  "results": [
+    {
+      "question_id": "L8A",
+      "evaluation": {
+        "question_id": "L8A",
+        "final_score": 0.81,
+        "max_score": 1,
+        "percentage": 80.8,
+        "partial_scores": {
+          "intent": 0.45,
+          "vocabulary": 0.19,
+          "spelling": 0.08,
+          "grammar": 0.09
+        },
+        "intent_analysis": {
+          "intent_match_score": 90,
+          "understood_concept": true,
+          "key_concepts_identified": [
+            "Rain prevented going to the park"
+          ],
+          "key_concepts_missed": [
+            "Correct tense to match passage (past)",
+            "Clear phrasing of 'outside'"
+          ],
+          "reasoning": "Student clearly identified rain as the reason for not going to the park."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 75,
+          "appropriate_words": [
+            "raining",
+            "it",
+            "is"
+          ],
+          "suggested_improvements": [
+            "Use 'because' (correct spelling)",
+            "Use 'outside' rather than 'out' in this context",
+            "Match tense: 'was' instead of 'is' to reflect the passage"
+          ],
+          "reasoning": "Simple, age-appropriate words used but some word choice and form need correction."
+        },
+        "spelling_analysis": {
+          "spelling_score": 80,
+          "misspelled_words": [
+            {
+              "word": "Becaus",
+              "correct": "Because",
+              "type": "phonetic"
+            }
+          ],
+          "phonetic_attempts": [
+            "Becaus"
+          ],
+          "reasoning": "One clear phonetic spelling error; other words are spelled correctly."
+        },
+        "grammar_analysis": {
+          "grammar_score": 60,
+          "errors": [
+            {
+              "type": "word order",
+              "fix": "Because it is raining outside."
+            },
+            {
+              "type": "tense agreement",
+              "fix": "Because it was raining."
+            },
+            {
+              "type": "missing letter/punctuation",
+              "fix": "Because it was raining."
+            }
+          ],
+          "strengths": [
+            "Uses a subject ('it') and verb ('raining')",
+            "Attempts to use a causal connector ('Because')"
+          ],
+          "reasoning": "Meaning is clear but sentence structure and tense need correction for grammatical accuracy."
+        },
+        "remarks": "Great job! You understood the main idea. Good phonetic spelling attempts!",
+        "suggestions": "Include: Correct tense to match passage (past), Clear phrasing of 'outside' | Word tip: Use 'because' (correct spelling) | Spelling: 'Becaus' → 'Because'"
+      }
+    },
+    {
+      "question_id": "L8B",
+      "evaluation": {
+        "question_id": "L8B",
+        "final_score": 0.82,
+        "max_score": 1,
+        "percentage": 82.2,
+        "partial_scores": {
+          "intent": 0.42,
+          "vocabulary": 0.2,
+          "spelling": 0.09,
+          "grammar": 0.11
+        },
+        "intent_analysis": {
+          "intent_match_score": 85,
+          "understood_concept": true,
+          "key_concepts_identified": [
+            "Identified that the dog wanted to be with/play with Anna",
+            "Recognized the pet as the actor wanting interaction"
+          ],
+          "key_concepts_missed": [
+            "Did not use the dog's name (Max)",
+            "Used 'go' instead of explicitly saying 'play' (less precise)"
+          ],
+          "reasoning": "Student understood who wanted to play but omitted the name and used a less precise verb."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 80,
+          "appropriate_words": [
+            "dog",
+            "wanted"
+          ],
+          "suggested_improvements": [
+            "Use the more precise verb 'play' to match the question",
+            "Include the character's name 'Max' when asked for who"
+          ],
+          "reasoning": "Simple, age-appropriate words but could be more precise and include the name."
+        },
+        "spelling_analysis": {
+          "spelling_score": 85,
+          "misspelled_words": [
+            {
+              "word": "whit",
+              "correct": "with",
+              "type": "phonetic/typo"
+            },
+            {
+              "word": "anna",
+              "correct": "Anna",
+              "type": "capitalization"
+            }
+          ],
+          "phonetic_attempts": [
+            "whit"
+          ],
+          "reasoning": "One clear phonetic spelling error and missing capitalization of a proper noun."
+        },
+        "grammar_analysis": {
+          "grammar_score": 75,
+          "errors": [
+            {
+              "type": "spelling",
+              "fix": "Change 'whit' to 'with'."
+            },
+            {
+              "type": "capitalization",
+              "fix": "Capitalize 'Anna'."
+            },
+            {
+              "type": "punctuation",
+              "fix": "Add a period at the end of the sentence."
+            }
+          ],
+          "strengths": [
+            "Subject-verb agreement is correct ('dog wanted')",
+            "Sentence is short and easily understood"
+          ],
+          "reasoning": "Basic sentence structure is fine but needs minor corrections (spelling, capitalization, punctuation) and could use a more precise verb."
+        },
+        "remarks": "Great job! You understood the main idea. Good phonetic spelling attempts!",
+        "suggestions": "Include: Did not use the dog's name (Max), Used 'go' instead of explicitly saying 'play' (less precise) | Word tip: Use the more precise verb 'play' to match the question | Spelling: 'whit' → 'with'"
+      }
+    },
+    {
+      "question_id": "L8C",
+      "evaluation": {
+        "question_id": "L8C",
+        "final_score": 0.83,
+        "max_score": 1,
+        "percentage": 83.0,
+        "partial_scores": {
+          "intent": 0.45,
+          "vocabulary": 0.19,
+          "spelling": 0.1,
+          "grammar": 0.1
+        },
+        "intent_analysis": {
+          "intent_match_score": 90,
+          "understood_concept": true,
+          "key_concepts_identified": [
+            "rain",
+            "falling",
+            "Anna watching"
+          ],
+          "key_concepts_missed": [
+            "explicit mention of 'window' (says 'out' instead)",
+            "clear, conventional word order"
+          ],
+          "reasoning": "Student clearly intended to say Anna watched the rain falling, so the main idea is present."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 75,
+          "appropriate_words": [
+            "Anna",
+            "rain",
+            "falling"
+          ],
+          "suggested_improvements": [
+            "use the article 'the' (the rain)",
+            "use correct verb form ('watched' or 'was watching')",
+            "use 'outside' or 'from her window' for clarity"
+          ],
+          "reasoning": "Simple, age-appropriate words are used but phrasing needs correction."
+        },
+        "spelling_analysis": {
+          "spelling_score": 95,
+          "misspelled_words": [],
+          "phonetic_attempts": [],
+          "reasoning": "Individual words are spelled correctly; issues are grammatical rather than spelling."
+        },
+        "grammar_analysis": {
+          "grammar_score": 65,
+          "errors": [
+            {
+              "type": "verb tense/agreement",
+              "fix": "Change 'watch' to 'watched' or 'was watching' (e.g., 'Anna watched the rain falling')."
+            },
+            {
+              "type": "word order/extra words",
+              "fix": "Remove or reorder 'out is' to 'outside' or 'out' (e.g., 'Anna watched the rain falling outside her window')."
+            },
+            {
+              "type": "missing article",
+              "fix": "Add 'the' before 'rain' ('the rain')."
+            }
+          ],
+          "strengths": [
+            "Communicates the intended idea",
+            "Uses key content words (rain, falling, Anna)"
+          ],
+          "reasoning": "Meaning is clear despite nonstandard grammar and word order; correctable with small edits."
+        },
+        "remarks": "Great job! You understood the main idea.",
+        "suggestions": "Include: explicit mention of 'window' (says 'out' instead), clear, conventional word order | Word tip: use the article 'the' (the rain) | Grammar: Change 'watch' to 'watched' or 'was watching' (e.g., 'Anna watched the rain falling')."
+      }
+    },
+    {
+      "question_id": "L8D",
+      "evaluation": {
+        "question_id": "L8D",
+        "final_score": 0.89,
+        "max_score": 1,
+        "percentage": 89.2,
+        "partial_scores": {
+          "intent": 0.47,
+          "vocabulary": 0.21,
+          "spelling": 0.1,
+          "grammar": 0.1
+        },
+        "intent_analysis": {
+          "intent_match_score": 95,
+          "understood_concept": true,
+          "key_concepts_identified": [
+            "Anna wants to go to the park",
+            "This is hoped for later"
+          ],
+          "key_concepts_missed": [],
+          "reasoning": "Student captured the main idea and timing from the passage."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 85,
+          "appropriate_words": [
+            "hoping",
+            "go",
+            "park",
+            "later",
+            "Anna"
+          ],
+          "suggested_improvements": [
+            "Remove the extraneous preposition 'for' before 'to go' or rephrase to 'hoping for a trip to the park later' or 'hoping to go to the park later'."
+          ],
+          "reasoning": "Word choices are age-appropriate; phrasing needs slight adjustment."
+        },
+        "spelling_analysis": {
+          "spelling_score": 100,
+          "misspelled_words": [],
+          "phonetic_attempts": [],
+          "reasoning": "No spelling errors."
+        },
+        "grammar_analysis": {
+          "grammar_score": 70,
+          "errors": [
+            {
+              "type": "extra preposition / incorrect construction",
+              "fix": "Anna is hoping to go to the park later."
+            }
+          ],
+          "strengths": [
+            "Correct subject and verb ('Anna is hoping')",
+            "Clear simple sentence intent"
+          ],
+          "reasoning": "Meaning is clear but the phrase 'hoping for to go' is ungrammatical; needs correction."
+        },
+        "remarks": "Great job! You understood the main idea.",
+        "suggestions": "Word tip: Remove the extraneous preposition 'for' before 'to go' or rephrase to 'hoping for a trip to the park later' or 'hoping to go to the park later'. | Grammar: Anna is hoping to go to the park later."
+      }
+    },
+    {
+      "question_id": "L9A",
+      "evaluation": {
+        "question_id": "L9A",
+        "final_score": 0.14,
+        "max_score": 1,
+        "percentage": 13.5,
+        "partial_scores": {
+          "intent": 0.06,
+          "vocabulary": 0.03,
+          "spelling": 0.03,
+          "grammar": 0.02
+        },
+        "intent_analysis": {
+          "intent_match_score": 15,
+          "understood_concept": false,
+          "key_concepts_identified": [
+            "children"
+          ],
+          "key_concepts_missed": [
+            "kite",
+            "see-saw",
+            "swing",
+            "slide",
+            "park",
+            "football",
+            "balloon",
+            "mud"
+          ],
+          "reasoning": "Answer is a fragment that only begins to reference 'children'; the main task and other clue words were not addressed."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 10,
+          "appropriate_words": [],
+          "suggested_improvements": [
+            "Use the provided clue words (kite, see-saw, swing, slide, park, football, balloon, mud)",
+            "Use simple verbs and connectors (are, playing, in, on, while, etc.)",
+            "Use plural 'children' when referring to a group"
+          ],
+          "reasoning": "Too short to demonstrate age-appropriate word choice; needs completion and more of the clue words."
+        },
+        "spelling_analysis": {
+          "spelling_score": 20,
+          "misspelled_words": [
+            {
+              "word": "chil",
+              "correct": "child or children",
+              "type": "typo"
+            }
+          ],
+          "phonetic_attempts": [
+            "chil"
+          ],
+          "reasoning": "Single incomplete/typo that likely intended 'child' or 'children'."
+        },
+        "grammar_analysis": {
+          "grammar_score": 10,
+          "errors": [
+            {
+              "type": "sentence fragment",
+              "fix": "Complete to a full sentence, e.g., 'The children are playing in the park.'"
+            }
+          ],
+          "strengths": [
+            "Started with a capital letter"
+          ],
+          "reasoning": "No complete sentence to evaluate tense, agreement, or punctuation; mainly a fragment."
+        },
+        "remarks": "Keep practicing! Good phonetic spelling attempts!",
+        "suggestions": "Include: kite, see-saw | Word tip: Use the provided clue words (kite, see-saw, swing, slide, park, football, balloon, mud) | Spelling: 'chil' → 'child or children'"
+      }
+    },
+    {
+      "question_id": "L11A",
+      "evaluation": {
+        "question_id": "L11A",
+        "final_score": 0.81,
+        "max_score": 1,
+        "percentage": 81.0,
+        "partial_scores": {
+          "intent": 0.42,
+          "vocabulary": 0.2,
+          "spelling": 0.1,
+          "grammar": 0.09
+        },
+        "intent_analysis": {
+          "intent_match_score": 85,
+          "understood_concept": true,
+          "key_concepts_identified": [
+            "Sumit did not go to the farm",
+            "Father was upset because of Sumit's absence from farm work"
+          ],
+          "key_concepts_missed": [
+            "explicitly stating that Sumit was lazy",
+            "that Sumit refused to help with the family business"
+          ],
+          "reasoning": "Student captured the main reason (absence from farm) but did not state laziness or refusal to help."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 80,
+          "appropriate_words": [
+            "farm",
+            "Sumit"
+          ],
+          "suggested_improvements": [
+            "Use words that express attitude/action (lazy, refused, help, family business)",
+            "Use a complete clause start (e.g., 'Because' should be followed by a main clause or rephrased)"
+          ],
+          "reasoning": "Simple, age-appropriate words used, but could add vocabulary to convey the father's reason more precisely."
+        },
+        "spelling_analysis": {
+          "spelling_score": 95,
+          "misspelled_words": [
+            {
+              "word": "sumit",
+              "correct": "Sumit",
+              "type": "capitalization/typo"
+            }
+          ],
+          "phonetic_attempts": [],
+          "reasoning": "No phonetic spelling errors; only capitalization of the proper noun needs correction."
+        },
+        "grammar_analysis": {
+          "grammar_score": 60,
+          "errors": [
+            {
+              "type": "negation/auxiliary missing",
+              "fix": "Use 'didn't' or 'did not': 'Sumit didn't come to the farm.'"
+            },
+            {
+              "type": "sentence fragment/complete sentence",
+              "fix": "Make a full sentence that states cause and effect: 'Sumit's father was upset because Sumit didn't come to the farm.'"
+            },
+            {
+              "type": "capitalization",
+              "fix": "Capitalize proper nouns and sentence start: 'Because Sumit...' or 'Sumit didn't...'"
+            }
+          ],
+          "strengths": [
+            "Meaning is understandable despite grammatical errors",
+            "Word order is roughly in correct sequence (subject–action–place)"
+          ],
+          "reasoning": "Student needs help with auxiliary verbs, negation, capitalization, and producing a complete sentence."
+        },
+        "remarks": "Great job! You understood the main idea.",
+        "suggestions": "Include: explicitly stating that Sumit was lazy, that Sumit refused to help with the family business | Word tip: Use words that express attitude/action (lazy, refused, help, family business) | Spelling: 'sumit' → 'Sumit'"
+      }
+    },
+    {
+      "question_id": "L11B",
+      "evaluation": {
+        "question_id": "L11B",
+        "final_score": 0.85,
+        "max_score": 1,
+        "percentage": 85.2,
+        "partial_scores": {
+          "intent": 0.45,
+          "vocabulary": 0.21,
+          "spelling": 0.1,
+          "grammar": 0.09
+        },
+        "intent_analysis": {
+          "intent_match_score": 90,
+          "understood_concept": true,
+          "key_concepts_identified": [
+            "Mom (Sumit's mother) suggested a visit to the grandfather"
+          ],
+          "key_concepts_missed": [
+            "stating the purpose (to get help)",
+            "explicitly naming Sumit as the one who should visit",
+            "answering in a complete sentence as requested"
+          ],
+          "reasoning": "Student correctly identified who made the suggestion but omitted purpose and the complete-sentence requirement."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 85,
+          "appropriate_words": [
+            "Mom",
+            "suggests",
+            "visit",
+            "grandfather"
+          ],
+          "suggested_improvements": [
+            "Use the full phrase 'visit his grandfather for help' or 'suggests that he visit his grandfather' to be more precise and complete."
+          ],
+          "reasoning": "Word choices are age-appropriate and clear, though phrasing could be more precise."
+        },
+        "spelling_analysis": {
+          "spelling_score": 100,
+          "misspelled_words": [],
+          "phonetic_attempts": [],
+          "reasoning": "All words are spelled correctly."
+        },
+        "grammar_analysis": {
+          "grammar_score": 60,
+          "errors": [
+            {
+              "type": "incorrect usage of 'suggests to'",
+              "fix": "Use 'suggests that he visit his grandfather' or 'suggests visiting his grandfather' instead of 'suggests to visit grandfather'."
+            },
+            {
+              "type": "incomplete sentence / missing detail",
+              "fix": "Provide a full sentence and include purpose, e.g., 'Sumit's mother suggested that he visit his grandfather for help.'"
+            }
+          ],
+          "strengths": [
+            "Subject-verb order is clear ('Mom suggests')",
+            "Present tense is used appropriately"
+          ],
+          "reasoning": "Meaning is understandable, but phrasing is nonstandard and the response is not a complete, well-formed sentence."
+        },
+        "remarks": "Great job! You understood the main idea.",
+        "suggestions": "Include: stating the purpose (to get help), explicitly naming Sumit as the one who should visit | Word tip: Use the full phrase 'visit his grandfather for help' or 'suggests that he visit his grandfather' to be more precise and complete. | Grammar: Use 'suggests that he visit his grandfather' or 'suggests visiting his grandfather' instead of 'suggests to visit grandfather'."
+      }
+    },
+    {
+      "question_id": "L11C",
+      "evaluation": {
+        "question_id": "L11C",
+        "final_score": 0.66,
+        "max_score": 1,
+        "percentage": 66.0,
+        "partial_scores": {
+          "intent": 0.35,
+          "vocabulary": 0.15,
+          "spelling": 0.09,
+          "grammar": 0.07
+        },
+        "intent_analysis": {
+          "intent_match_score": 70,
+          "understood_concept": true,
+          "key_concepts_identified": [
+            "visit Shiv temple",
+            "inspect farm(s)"
+          ],
+          "key_concepts_missed": [
+            "wake up before sunrise",
+            "inspect shops and stables",
+            "that it should be done every day / daily routine"
+          ],
+          "reasoning": "Student captured the temple visit and farm inspection but missed waking early and other properties (shops/stables, daily habit)."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 60,
+          "appropriate_words": [
+            "grandfather",
+            "farm",
+            "Shiv temple"
+          ],
+          "suggested_improvements": [
+            "use verbs like 'inspect', 'visit', 'wake up'",
+            "use 'always' instead of misspelled 'allways'",
+            "use plural 'farms' or specify 'all his farms, shops, and stables'"
+          ],
+          "reasoning": "Basic, age-appropriate words used but phrasing is nonstandard and could be more precise."
+        },
+        "spelling_analysis": {
+          "spelling_score": 85,
+          "misspelled_words": [
+            {
+              "word": "allways",
+              "correct": "always",
+              "type": "phonetic/typo"
+            },
+            {
+              "word": "shiv",
+              "correct": "Shiv",
+              "type": "capitalization"
+            }
+          ],
+          "phonetic_attempts": [
+            "allways"
+          ],
+          "reasoning": "Only a couple of simple spelling/capitalization errors."
+        },
+        "grammar_analysis": {
+          "grammar_score": 50,
+          "errors": [
+            {
+              "type": "subject-verb agreement / tense",
+              "fix": "The grandfather said ... OR The grandfather says ..."
+            },
+            {
+              "type": "article and preposition usage / phrasing",
+              "fix": "take a round of the farm -> take a round of the farm(s) OR inspect his farms"
+            },
+            {
+              "type": "pluralization / completeness",
+              "fix": "farm -> farms; mention shops and stables if included"
+            },
+            {
+              "type": "capitalization and sentence polish",
+              "fix": "Shiv -> Shiv; write full complete sentence: 'The grandfather said that Sumit should wake up before sunrise, visit the Shiv temple, and inspect all his farms, shops, and stables every day.'"
+            }
+          ],
+          "strengths": [
+            "communicates main actions",
+            "short, simple sentence structure"
+          ],
+          "reasoning": "Grammar issues affect clarity and completeness; needs corrections for verb form, articles, pluralization, and full-sentence form."
+        },
+        "remarks": "Good effort! You understood the main idea. Good phonetic spelling attempts!",
+        "suggestions": "Include: wake up before sunrise, inspect shops and stables | Word tip: use verbs like 'inspect', 'visit', 'wake up' | Spelling: 'allways' → 'always'"
+      }
+    },
+    {
+      "question_id": "L11D",
+      "evaluation": {
+        "question_id": "L11D",
+        "final_score": 0.49,
+        "max_score": 1,
+        "percentage": 49.5,
+        "partial_scores": {
+          "intent": 0.15,
+          "vocabulary": 0.17,
+          "spelling": 0.1,
+          "grammar": 0.07
+        },
+        "intent_analysis": {
+          "intent_match_score": 30,
+          "understood_concept": false,
+          "key_concepts_identified": [
+            "Something about Sumit's situation changed",
+            "Perceived improvement (wealth)"
+          ],
+          "key_concepts_missed": [
+            "Sumit becomes responsible",
+            "He becomes hardworking",
+            "The business improves",
+            "The workers become honest"
+          ],
+          "reasoning": "Student noticed a change but missed the key ideas about responsibility, work ethic, business improvement, and worker honesty."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 70,
+          "appropriate_words": [
+            "Sumit",
+            "rich"
+          ],
+          "suggested_improvements": [
+            "becomes",
+            "responsible",
+            "hardworking",
+            "business",
+            "workers",
+            "honest",
+            "every day"
+          ],
+          "reasoning": "Word choice is simple and age-appropriate but too limited and misses important vocabulary from the correct answer."
+        },
+        "spelling_analysis": {
+          "spelling_score": 95,
+          "misspelled_words": [],
+          "phonetic_attempts": [],
+          "reasoning": "No clear spelling errors; words are spelled correctly."
+        },
+        "grammar_analysis": {
+          "grammar_score": 50,
+          "errors": [
+            {
+              "type": "subject-verb agreement",
+              "fix": "Sumit becomes rich."
+            }
+          ],
+          "strengths": [
+            "Idea is concise and understandable",
+            "Uses simple, clear words"
+          ],
+          "reasoning": "Grammar is simple but has a verb agreement error and the response is too brief to show full comprehension."
+        },
+        "remarks": "Nice try!",
+        "suggestions": "Include: Sumit becomes responsible, He becomes hardworking | Word tip: becomes | Grammar: Sumit becomes rich."
+      }
+    }
+  ]
+}

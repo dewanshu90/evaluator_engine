@@ -1,0 +1,618 @@
+{
+  "student_name": "Student_4",
+  "evaluation_date": "2025-11-07T22:07:40.877393",
+  "total_score": 5.96,
+  "max_score": 9,
+  "percentage": 66.2,
+  "results": [
+    {
+      "question_id": "L8A",
+      "evaluation": {
+        "question_id": "L8A",
+        "final_score": 0.82,
+        "max_score": 1,
+        "percentage": 82.2,
+        "partial_scores": {
+          "intent": 0.42,
+          "vocabulary": 0.21,
+          "spelling": 0.1,
+          "grammar": 0.09
+        },
+        "intent_analysis": {
+          "intent_match_score": 85,
+          "understood_concept": true,
+          "key_concepts_identified": [
+            "rain was the reason Anna couldn't go to the park"
+          ],
+          "key_concepts_missed": [
+            "explicitly stating the answer as a statement (e.g., 'Because it was raining') rather than a question"
+          ],
+          "reasoning": "Student identified rain as the reason, showing good comprehension despite incorrect answer form."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 85,
+          "appropriate_words": [
+            "raining",
+            "why",
+            "its"
+          ],
+          "suggested_improvements": [
+            "use the word 'because' to signal a reason",
+            "use the contraction \"it's\" or the full form 'it is' correctly"
+          ],
+          "reasoning": "Word choice is age-appropriate and on-topic; needs phrasing to show cause."
+        },
+        "spelling_analysis": {
+          "spelling_score": 95,
+          "misspelled_words": [
+            {
+              "word": "its",
+              "correct": "it's",
+              "type": "typo/grammar"
+            }
+          ],
+          "phonetic_attempts": [],
+          "reasoning": "Most words spelled correctly; main issue is missing apostrophe (contraction), which affects grammar more than raw spelling."
+        },
+        "grammar_analysis": {
+          "grammar_score": 60,
+          "errors": [
+            {
+              "type": "incorrect sentence form (answered with a question fragment)",
+              "fix": "Because it's raining."
+            },
+            {
+              "type": "missing apostrophe in contraction",
+              "fix": "it's → it is / it's"
+            }
+          ],
+          "strengths": [
+            "uses the correct tense and simple vocabulary",
+            "concise expression of the core idea"
+          ],
+          "reasoning": "Grammatical form and punctuation need correction to make the answer a clear, complete response."
+        },
+        "remarks": "Great job! You understood the main idea.",
+        "suggestions": "Include: explicitly stating the answer as a statement (e.g., 'Because it was raining') rather than a question | Word tip: use the word 'because' to signal a reason | Spelling: 'its' → 'it's'"
+      }
+    },
+    {
+      "question_id": "L8B",
+      "evaluation": {
+        "question_id": "L8B",
+        "final_score": 0.9,
+        "max_score": 1,
+        "percentage": 90.0,
+        "partial_scores": {
+          "intent": 0.47,
+          "vocabulary": 0.21,
+          "spelling": 0.1,
+          "grammar": 0.11
+        },
+        "intent_analysis": {
+          "intent_match_score": 95,
+          "understood_concept": true,
+          "key_concepts_identified": [
+            "Identified who wanted to play (the dog Max)",
+            "Understood that the pet wanted to play with Anna"
+          ],
+          "key_concepts_missed": [],
+          "reasoning": "Student correctly identified the character who wanted to play."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 85,
+          "appropriate_words": [
+            "dog",
+            "max"
+          ],
+          "suggested_improvements": [
+            "Capitalize proper names: 'Max'.",
+            "Prefer the name alone ('Max') or 'Max, the dog' for clarity."
+          ],
+          "reasoning": "Word choice is appropriate and simple; capitalization and clarity could improve."
+        },
+        "spelling_analysis": {
+          "spelling_score": 100,
+          "misspelled_words": [],
+          "phonetic_attempts": [],
+          "reasoning": "No spelling errors; 'max' is correctly spelled though not capitalized."
+        },
+        "grammar_analysis": {
+          "grammar_score": 75,
+          "errors": [
+            {
+              "type": "capitalization",
+              "fix": "Max"
+            },
+            {
+              "type": "conciseness/word order",
+              "fix": "Use 'Max' or 'Max, the dog' instead of 'Dog max'"
+            }
+          ],
+          "strengths": [
+            "Concise response",
+            "Directly answers the question"
+          ],
+          "reasoning": "Response is a fragment but acceptable; fix capitalization and prefer name-first or include article for standard structure."
+        },
+        "remarks": "Excellent work! You understood the main idea.",
+        "suggestions": "Word tip: Capitalize proper names: 'Max'. | Grammar: Max"
+      }
+    },
+    {
+      "question_id": "L8C",
+      "evaluation": {
+        "question_id": "L8C",
+        "final_score": 0.95,
+        "max_score": 1,
+        "percentage": 95.5,
+        "partial_scores": {
+          "intent": 0.47,
+          "vocabulary": 0.24,
+          "spelling": 0.1,
+          "grammar": 0.14
+        },
+        "intent_analysis": {
+          "intent_match_score": 95,
+          "understood_concept": true,
+          "key_concepts_identified": [
+            "rain",
+            "what Anna was watching"
+          ],
+          "key_concepts_missed": [
+            "use of the definite article 'the' to match the full expected answer"
+          ],
+          "reasoning": "Student correctly identified the key detail from the passage."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 95,
+          "appropriate_words": [
+            "rain"
+          ],
+          "suggested_improvements": [
+            "Add the definite article to mirror the expected phrasing: 'the rain'"
+          ],
+          "reasoning": "Word choice is age-appropriate and clear."
+        },
+        "spelling_analysis": {
+          "spelling_score": 100,
+          "misspelled_words": [],
+          "phonetic_attempts": [],
+          "reasoning": "No spelling errors."
+        },
+        "grammar_analysis": {
+          "grammar_score": 95,
+          "errors": [
+            {
+              "type": "missing_article",
+              "fix": "use 'the rain' instead of 'rain'"
+            }
+          ],
+          "strengths": [
+            "correct noun choice",
+            "concise, grammatically acceptable one-word answer"
+          ],
+          "reasoning": "Minor formality issue with the definite article; otherwise grammatically fine for a short-answer response."
+        },
+        "remarks": "Excellent work! You understood the main idea.",
+        "suggestions": "Include: use of the definite article 'the' to match the full expected answer | Word tip: Add the definite article to mirror the expected phrasing: 'the rain' | Grammar: use 'the rain' instead of 'rain'"
+      }
+    },
+    {
+      "question_id": "L8D",
+      "evaluation": {
+        "question_id": "L8D",
+        "final_score": 0.61,
+        "max_score": 1,
+        "percentage": 60.8,
+        "partial_scores": {
+          "intent": 0.15,
+          "vocabulary": 0.24,
+          "spelling": 0.1,
+          "grammar": 0.12
+        },
+        "intent_analysis": {
+          "intent_match_score": 30,
+          "understood_concept": false,
+          "key_concepts_identified": [
+            "There is a desire expressed in the passage",
+            "The idea of playing is present"
+          ],
+          "key_concepts_missed": [
+            "Anna specifically hopes to go to the park",
+            "Distinguishing Anna's hope from Max's hope",
+            "Answer must name the location/activity Anna hopes for later"
+          ],
+          "reasoning": "Student recognized a desire but chose the wrong subject/activity for Anna."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 95,
+          "appropriate_words": [
+            "play"
+          ],
+          "suggested_improvements": [
+            "Use a phrase that matches the question (e.g., 'to go to the park' or 'go to the park to play')",
+            "Be specific about who is hoping (Anna)"
+          ],
+          "reasoning": "Word choice is age-appropriate but not specific enough for this question."
+        },
+        "spelling_analysis": {
+          "spelling_score": 100,
+          "misspelled_words": [],
+          "phonetic_attempts": [],
+          "reasoning": "No spelling errors."
+        },
+        "grammar_analysis": {
+          "grammar_score": 80,
+          "errors": [
+            {
+              "type": "incomplete_answer/ambiguity",
+              "fix": "Provide a full, specific answer such as 'She is hoping to go to the park.'"
+            }
+          ],
+          "strengths": [
+            "Clear, single-word response",
+            "Correct spelling"
+          ],
+          "reasoning": "Grammar is fine for a one-word reply, but the response is incomplete and ambiguous."
+        },
+        "remarks": "Good effort!",
+        "suggestions": "Include: Anna specifically hopes to go to the park, Distinguishing Anna's hope from Max's hope | Word tip: Use a phrase that matches the question (e.g., 'to go to the park' or 'go to the park to play') | Grammar: Provide a full, specific answer such as 'She is hoping to go to the park.'"
+      }
+    },
+    {
+      "question_id": "L9A",
+      "evaluation": {
+        "question_id": "L9A",
+        "final_score": 0.76,
+        "max_score": 1,
+        "percentage": 75.8,
+        "partial_scores": {
+          "intent": 0.28,
+          "vocabulary": 0.19,
+          "spelling": 0.15,
+          "grammar": 0.14
+        },
+        "intent_analysis": {
+          "intent_match_score": 70,
+          "understood_concept": true,
+          "key_concepts_identified": [
+            "children",
+            "kite",
+            "see-saw",
+            "swing",
+            "slide",
+            "football"
+          ],
+          "key_concepts_missed": [
+            "park",
+            "balloon",
+            "mud"
+          ],
+          "reasoning": "Student captured the main playground activities but omitted setting (park), balloon, and mud; overall partial understanding."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 75,
+          "appropriate_words": [
+            "children",
+            "kite",
+            "football",
+            "see-saw",
+            "swing",
+            "slide"
+          ],
+          "suggested_improvements": [
+            "use prepositional phrases (e.g., 'on the see-saw', 'in the park')",
+            "vary verbs (e.g., 'playing on', 'flying', 'sliding', 'bouncing')",
+            "add descriptive words (colorful balloon, muddy area)"
+          ],
+          "reasoning": "Age-appropriate word choices but limited variety and missing some contextual words."
+        },
+        "spelling_analysis": {
+          "spelling_score": 100,
+          "misspelled_words": [],
+          "phonetic_attempts": [],
+          "reasoning": "No spelling errors detected."
+        },
+        "grammar_analysis": {
+          "grammar_score": 70,
+          "errors": [
+            {
+              "type": "missing preposition",
+              "fix": "The children are playing on the see-saw."
+            },
+            {
+              "type": "missing preposition",
+              "fix": "The children are playing on the swings."
+            },
+            {
+              "type": "missing preposition",
+              "fix": "The girls are playing on the slide."
+            },
+            {
+              "type": "article/word choice (optional)",
+              "fix": "The children are flying a kite (or flying the kite in the park)."
+            }
+          ],
+          "strengths": [
+            "consistent present continuous tense",
+            "clear short sentences",
+            "subject-verb agreement is correct"
+          ],
+          "reasoning": "Main issues are missing prepositions and small phrasing choices; overall sentences are understandable."
+        },
+        "remarks": "Great job! You understood the main idea.",
+        "suggestions": "Include: park, balloon | Word tip: use prepositional phrases (e.g., 'on the see-saw', 'in the park') | Grammar: The children are playing on the see-saw."
+      }
+    },
+    {
+      "question_id": "L11A",
+      "evaluation": {
+        "question_id": "L11A",
+        "final_score": 0.78,
+        "max_score": 1,
+        "percentage": 78.2,
+        "partial_scores": {
+          "intent": 0.35,
+          "vocabulary": 0.21,
+          "spelling": 0.1,
+          "grammar": 0.12
+        },
+        "intent_analysis": {
+          "intent_match_score": 70,
+          "understood_concept": true,
+          "key_concepts_identified": [
+            "Sumit was lazy"
+          ],
+          "key_concepts_missed": [
+            "He refused to help",
+            "Help with the family business (reason for father's upset)"
+          ],
+          "reasoning": "Student captured the core idea (laziness) but omitted the key detail about refusing to help with the family business."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 85,
+          "appropriate_words": [
+            "lazy"
+          ],
+          "suggested_improvements": [
+            "Use words/phrases to state the full reason (e.g., 'refused to help', 'family business')",
+            "Use past-tense phrasing to match the question (e.g., 'was lazy')"
+          ],
+          "reasoning": "Word choice is age-appropriate and simple but too minimal for the question."
+        },
+        "spelling_analysis": {
+          "spelling_score": 100,
+          "misspelled_words": [],
+          "phonetic_attempts": [],
+          "reasoning": "No spelling errors."
+        },
+        "grammar_analysis": {
+          "grammar_score": 80,
+          "errors": [
+            {
+              "type": "tense",
+              "fix": "Use past tense to answer the question about a past event: 'He was lazy.' Better: 'Sumit's father was upset because he was lazy and refused to help with the family business.'"
+            }
+          ],
+          "strengths": [
+            "Simple sentence is grammatically correct (subject-verb-agreement)",
+            "Clear and concise"
+          ],
+          "reasoning": "Grammar is mostly correct, but tense should match the question and a fuller sentence is expected."
+        },
+        "remarks": "Great job! You understood the main idea.",
+        "suggestions": "Include: He refused to help, Help with the family business (reason for father's upset) | Word tip: Use words/phrases to state the full reason (e.g., 'refused to help', 'family business') | Grammar: Use past tense to answer the question about a past event: 'He was lazy.' Better: 'Sumit's father was upset because he was lazy and refused to help with the family business.'"
+      }
+    },
+    {
+      "question_id": "L11B",
+      "evaluation": {
+        "question_id": "L11B",
+        "final_score": 0.44,
+        "max_score": 1,
+        "percentage": 43.8,
+        "partial_scores": {
+          "intent": 0.15,
+          "vocabulary": 0.15,
+          "spelling": 0.1,
+          "grammar": 0.04
+        },
+        "intent_analysis": {
+          "intent_match_score": 30,
+          "understood_concept": false,
+          "key_concepts_identified": [
+            "Recognized 'help' as the reason for the visit"
+          ],
+          "key_concepts_missed": [
+            "Who suggested the visit (Sumit's mother)",
+            "Answering the question 'Who?' rather than 'Why?'",
+            "Providing a complete sentence"
+          ],
+          "reasoning": "Student shows partial understanding of purpose but did not identify the character who suggested the visit."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 60,
+          "appropriate_words": [
+            "help"
+          ],
+          "suggested_improvements": [
+            "Use the character's name (Sumit's mother) and include a subject and verb to form a complete sentence.",
+            "Replace fragment with a clear phrase like 'Sumit's mother suggested it for help.'"
+          ],
+          "reasoning": "Words are age-appropriate but the response is a fragment and misses the required subject."
+        },
+        "spelling_analysis": {
+          "spelling_score": 100,
+          "misspelled_words": [],
+          "phonetic_attempts": [],
+          "reasoning": "No spelling errors."
+        },
+        "grammar_analysis": {
+          "grammar_score": 25,
+          "errors": [
+            {
+              "type": "missing subject / wrong focus (answers 'why' not 'who')",
+              "fix": "Sumit's mother suggests that he visit his grandfather for help."
+            },
+            {
+              "type": "fragment — not a complete sentence",
+              "fix": "Write a full sentence with subject and verb, e.g., 'Sumit's mother suggested that he visit his grandfather for help.'"
+            }
+          ],
+          "strengths": [
+            "Uses a clear content word ('help') indicating recognition of purpose"
+          ],
+          "reasoning": "Response is a fragment and does not answer the 'who' question; needs a full sentence with subject and verb."
+        },
+        "remarks": "Nice try!",
+        "suggestions": "Include: Who suggested the visit (Sumit's mother), Answering the question 'Who?' rather than 'Why?' | Word tip: Use the character's name (Sumit's mother) and include a subject and verb to form a complete sentence. | Grammar: Sumit's mother suggests that he visit his grandfather for help."
+      }
+    },
+    {
+      "question_id": "L11C",
+      "evaluation": {
+        "question_id": "L11C",
+        "final_score": 0.47,
+        "max_score": 1,
+        "percentage": 47.5,
+        "partial_scores": {
+          "intent": 0.15,
+          "vocabulary": 0.19,
+          "spelling": 0.1,
+          "grammar": 0.04
+        },
+        "intent_analysis": {
+          "intent_match_score": 30,
+          "understood_concept": false,
+          "key_concepts_identified": [
+            "student identified laziness as relevant"
+          ],
+          "key_concepts_missed": [
+            "wake up before sunrise",
+            "visit the Shiv temple",
+            "inspect farms daily",
+            "inspect shops daily",
+            "inspect stables daily",
+            "explicit advice given by the grandfather"
+          ],
+          "reasoning": "Student indicates cause (laziness) but did not state the grandfather's advice."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 75,
+          "appropriate_words": [
+            "lazy"
+          ],
+          "suggested_improvements": [
+            "use a complete phrase or sentence to express ideas (e.g., 'He was lazy' or better, restate the advice).",
+            "use verbs to describe advice (wake, visit, inspect)"
+          ],
+          "reasoning": "Word choice is age-appropriate but answer is incomplete."
+        },
+        "spelling_analysis": {
+          "spelling_score": 100,
+          "misspelled_words": [],
+          "phonetic_attempts": [],
+          "reasoning": "No spelling errors detected."
+        },
+        "grammar_analysis": {
+          "grammar_score": 25,
+          "errors": [
+            {
+              "type": "sentence fragment/missing subject",
+              "fix": "Write a complete sentence, e.g., 'Sumit's grandfather advised him to wake up early because he was lazy.'"
+            },
+            {
+              "type": "preposition/misuse ('Because of lazy')",
+              "fix": "'Because of lazy' should be 'because he was lazy' or rephrase to state the advice directly."
+            },
+            {
+              "type": "does not answer the question",
+              "fix": "Provide the specific advice rather than a short reason; e.g., 'His grandfather told him to wake up before sunrise, visit the Shiv temple, and check his farms, shops, and stables every day.'"
+            }
+          ],
+          "strengths": [
+            "uses the correct word 'lazy' to express the idea"
+          ],
+          "reasoning": "Major issues are sentence completeness and clarity; needs a full sentence that states the advice."
+        },
+        "remarks": "Nice try!",
+        "suggestions": "Include: wake up before sunrise, visit the Shiv temple | Word tip: use a complete phrase or sentence to express ideas (e.g., 'He was lazy' or better, restate the advice). | Grammar: Write a complete sentence, e.g., 'Sumit's grandfather advised him to wake up early because he was lazy.'"
+      }
+    },
+    {
+      "question_id": "L11D",
+      "evaluation": {
+        "question_id": "L11D",
+        "final_score": 0.23,
+        "max_score": 1,
+        "percentage": 22.5,
+        "partial_scores": {
+          "intent": 0.07,
+          "vocabulary": 0.07,
+          "spelling": 0.06,
+          "grammar": 0.01
+        },
+        "intent_analysis": {
+          "intent_match_score": 15,
+          "understood_concept": false,
+          "key_concepts_identified": [
+            "temple (the student referenced the temple)"
+          ],
+          "key_concepts_missed": [
+            "Sumit becomes responsible",
+            "Sumit becomes hardworking",
+            "the business improves",
+            "the workers become honest",
+            "change in behaviour and outcomes"
+          ],
+          "reasoning": "Answer only names the temple and does not explain the change described in the story."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 30,
+          "appropriate_words": [
+            "temple"
+          ],
+          "suggested_improvements": [
+            "Use words that describe change and character (responsible, hardworking, honest, improved business).",
+            "Answer in a complete sentence (e.g., 'When Sumit started visiting the Shiva temple and going to work every day, he became responsible and hardworking, and the business improved.')."
+          ],
+          "reasoning": "Very few words used; need verbs and descriptive vocabulary to show comprehension."
+        },
+        "spelling_analysis": {
+          "spelling_score": 60,
+          "misspelled_words": [
+            {
+              "word": "Shive",
+              "correct": "Shiva",
+              "type": "misspelling/phonetic"
+            }
+          ],
+          "phonetic_attempts": [
+            "Shive"
+          ],
+          "reasoning": "Single-word misspelling; otherwise short answer limits further spelling assessment."
+        },
+        "grammar_analysis": {
+          "grammar_score": 10,
+          "errors": [
+            {
+              "type": "sentence fragment",
+              "fix": "Write a complete sentence: 'When Sumit started visiting the Shiva temple and going to work every day, he became responsible and hardworking, which led to the business improving and the workers becoming honest.'"
+            },
+            {
+              "type": "missing punctuation/capitalization",
+              "fix": "Capitalize names and add proper punctuation."
+            }
+          ],
+          "strengths": [
+            "Used a noun ('temple') correctly"
+          ],
+          "reasoning": "Response is a fragment and does not use tense or structure to show cause and effect."
+        },
+        "remarks": "Keep practicing! Good phonetic spelling attempts!",
+        "suggestions": "Include: Sumit becomes responsible, Sumit becomes hardworking | Word tip: Use words that describe change and character (responsible, hardworking, honest, improved business). | Spelling: 'Shive' → 'Shiva'"
+      }
+    }
+  ]
+}

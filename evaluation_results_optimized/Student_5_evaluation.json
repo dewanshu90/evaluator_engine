@@ -1,0 +1,599 @@
+{
+  "student_name": "Student_5",
+  "evaluation_date": "2025-11-07T22:10:42.225242",
+  "total_score": 5.39,
+  "max_score": 9,
+  "percentage": 59.9,
+  "results": [
+    {
+      "question_id": "L8A",
+      "evaluation": {
+        "question_id": "L8A",
+        "final_score": 0.49,
+        "max_score": 1,
+        "percentage": 49.5,
+        "partial_scores": {
+          "intent": 0.1,
+          "vocabulary": 0.17,
+          "spelling": 0.1,
+          "grammar": 0.12
+        },
+        "intent_analysis": {
+          "intent_match_score": 20,
+          "understood_concept": false,
+          "key_concepts_identified": [
+            "dog wanted to play"
+          ],
+          "key_concepts_missed": [
+            "it was raining",
+            "rain prevented going to the park"
+          ],
+          "reasoning": "Student focused on the dog rather than the passage's reason (rain) for not going to the park."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 70,
+          "appropriate_words": [
+            "play",
+            "dog"
+          ],
+          "suggested_improvements": [
+            "use possessive or article: 'her dog' or 'the dog'",
+            "use a complete phrase answering the question, e.g. 'Because it was raining.'"
+          ],
+          "reasoning": "Words are age-appropriate but the response is incomplete."
+        },
+        "spelling_analysis": {
+          "spelling_score": 100,
+          "misspelled_words": [],
+          "phonetic_attempts": [],
+          "reasoning": "No spelling errors."
+        },
+        "grammar_analysis": {
+          "grammar_score": 80,
+          "errors": [
+            {
+              "type": "missing article/possessive",
+              "fix": "to play with her dog / to play with the dog"
+            },
+            {
+              "type": "sentence fragment / not a complete answer",
+              "fix": "She couldn't go to the park because it was raining."
+            }
+          ],
+          "strengths": [
+            "simple, clear words",
+            "basic word order is correct"
+          ],
+          "reasoning": "Minor grammatical issues; answer is a fragment and lacks the required causal phrasing."
+        },
+        "remarks": "Nice try!",
+        "suggestions": "Include: it was raining, rain prevented going to the park | Word tip: use possessive or article: 'her dog' or 'the dog' | Grammar: to play with her dog / to play with the dog"
+      }
+    },
+    {
+      "question_id": "L8B",
+      "evaluation": {
+        "question_id": "L8B",
+        "final_score": 0.82,
+        "max_score": 1,
+        "percentage": 81.8,
+        "partial_scores": {
+          "intent": 0.38,
+          "vocabulary": 0.2,
+          "spelling": 0.1,
+          "grammar": 0.14
+        },
+        "intent_analysis": {
+          "intent_match_score": 75,
+          "understood_concept": true,
+          "key_concepts_identified": [
+            "Recognized that Anna's pet wanted to play",
+            "Identified the actor as the dog"
+          ],
+          "key_concepts_missed": [
+            "Did not provide the specific name 'Max' when asked 'Who'"
+          ],
+          "reasoning": "Student showed comprehension of who wanted to play but gave a general label instead of the specific name."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 80,
+          "appropriate_words": [
+            "dog"
+          ],
+          "suggested_improvements": [
+            "Use the specific name asked for (Max) or a full phrase like 'Max the dog' when the question asks 'Who'"
+          ],
+          "reasoning": "Word choice is age-appropriate but not precise to the question."
+        },
+        "spelling_analysis": {
+          "spelling_score": 100,
+          "misspelled_words": [],
+          "phonetic_attempts": [],
+          "reasoning": "No spelling errors."
+        },
+        "grammar_analysis": {
+          "grammar_score": 95,
+          "errors": [],
+          "strengths": [
+            "Concise one-word answer",
+            "Correct noun form"
+          ],
+          "reasoning": "Grammatically acceptable; main issue is precision, not grammar."
+        },
+        "remarks": "Great job! You understood the main idea.",
+        "suggestions": "Include: Did not provide the specific name 'Max' when asked 'Who' | Word tip: Use the specific name asked for (Max) or a full phrase like 'Max the dog' when the question asks 'Who'"
+      }
+    },
+    {
+      "question_id": "L8C",
+      "evaluation": {
+        "question_id": "L8C",
+        "final_score": 0.92,
+        "max_score": 1,
+        "percentage": 92.0,
+        "partial_scores": {
+          "intent": 0.47,
+          "vocabulary": 0.23,
+          "spelling": 0.1,
+          "grammar": 0.12
+        },
+        "intent_analysis": {
+          "intent_match_score": 95,
+          "understood_concept": true,
+          "key_concepts_identified": [
+            "Anna was watching rain"
+          ],
+          "key_concepts_missed": [
+            "use of article ('the rain') or answering with a noun phrase rather than a verb phrase"
+          ],
+          "reasoning": "Student clearly identified rain as what Anna watched; phrasing is slightly off from the expected noun phrase."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 90,
+          "appropriate_words": [
+            "rain",
+            "fell"
+          ],
+          "suggested_improvements": [
+            "Use the noun phrase 'the rain' or 'the rain falling' to match the expected answer format."
+          ],
+          "reasoning": "Word choice is age-appropriate and clear."
+        },
+        "spelling_analysis": {
+          "spelling_score": 100,
+          "misspelled_words": [],
+          "phonetic_attempts": [],
+          "reasoning": "No spelling errors."
+        },
+        "grammar_analysis": {
+          "grammar_score": 80,
+          "errors": [
+            {
+              "type": "fragment/missing article",
+              "fix": "the rain (or 'Anna watched the rain' as a full sentence)"
+            }
+          ],
+          "strengths": [
+            "Correct past-tense verb 'fell' aligns with passage tense",
+            "Simple, clear wording"
+          ],
+          "reasoning": "Answer is a short fragment rather than the expected noun phrase; grammatically understandable but not ideal form."
+        },
+        "remarks": "Excellent work! You understood the main idea.",
+        "suggestions": "Include: use of article ('the rain') or answering with a noun phrase rather than a verb phrase | Word tip: Use the noun phrase 'the rain' or 'the rain falling' to match the expected answer format. | Grammar: the rain (or 'Anna watched the rain' as a full sentence)"
+      }
+    },
+    {
+      "question_id": "L8D",
+      "evaluation": {
+        "question_id": "L8D",
+        "final_score": 0.33,
+        "max_score": 1,
+        "percentage": 32.8,
+        "partial_scores": {
+          "intent": 0.15,
+          "vocabulary": 0.05,
+          "spelling": 0.03,
+          "grammar": 0.1
+        },
+        "intent_analysis": {
+          "intent_match_score": 30,
+          "understood_concept": false,
+          "key_concepts_identified": [
+            "idea of hoping/wanting"
+          ],
+          "key_concepts_missed": [
+            "Anna specifically wants to go to the park",
+            "connection between rain and possible cancellation"
+          ],
+          "reasoning": "Student shows a vague sense of 'hoping' but did not identify 'go to the park.'"
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 20,
+          "appropriate_words": [
+            "to"
+          ],
+          "suggested_improvements": [
+            "Use 'hoping' instead of 'hopping'",
+            "Use correct target phrase 'go to the park' or at least 'play' if intended"
+          ],
+          "reasoning": "Word choices contain errors that change meaning; age-appropriate words are missing or misspelled."
+        },
+        "spelling_analysis": {
+          "spelling_score": 30,
+          "misspelled_words": [
+            {
+              "word": "hopping",
+              "correct": "hoping",
+              "type": "typo/extra letter"
+            },
+            {
+              "word": "pay",
+              "correct": "play",
+              "type": "missing letter/phonetic"
+            }
+          ],
+          "phonetic_attempts": [
+            "hopping",
+            "pay"
+          ],
+          "reasoning": "Spelling errors are phonetic/typo-like and change meaning."
+        },
+        "grammar_analysis": {
+          "grammar_score": 65,
+          "errors": [
+            {
+              "type": "word choice affecting meaning",
+              "fix": "hoping to play OR hoping to go to the park (depending on intended meaning)"
+            }
+          ],
+          "strengths": [
+            "Uses an infinitive structure ('to ...')",
+            "Short, concise response appropriate for the task format"
+          ],
+          "reasoning": "Structure is acceptable for a short answer, but incorrect word choices create the primary problem."
+        },
+        "remarks": "Keep practicing! Good phonetic spelling attempts!",
+        "suggestions": "Include: Anna specifically wants to go to the park, connection between rain and possible cancellation | Word tip: Use 'hoping' instead of 'hopping' | Spelling: 'hopping' → 'hoping'"
+      }
+    },
+    {
+      "question_id": "L9A",
+      "evaluation": {
+        "question_id": "L9A",
+        "final_score": 0.5,
+        "max_score": 1,
+        "percentage": 50.0,
+        "partial_scores": {
+          "intent": 0.2,
+          "vocabulary": 0.12,
+          "spelling": 0.07,
+          "grammar": 0.1
+        },
+        "intent_analysis": {
+          "intent_match_score": 50,
+          "understood_concept": true,
+          "key_concepts_identified": [],
+          "key_concepts_missed": [],
+          "reasoning": "Parse error"
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 50,
+          "appropriate_words": [],
+          "suggested_improvements": [],
+          "reasoning": "Parse error"
+        },
+        "spelling_analysis": {
+          "spelling_score": 50,
+          "misspelled_words": [],
+          "phonetic_attempts": [],
+          "reasoning": "Parse error"
+        },
+        "grammar_analysis": {
+          "grammar_score": 50,
+          "errors": [],
+          "strengths": [],
+          "reasoning": "Parse error"
+        },
+        "remarks": "Nice try! You understood the main idea.",
+        "suggestions": "Keep up the good work!"
+      }
+    },
+    {
+      "question_id": "L11A",
+      "evaluation": {
+        "question_id": "L11A",
+        "final_score": 0.86,
+        "max_score": 1,
+        "percentage": 85.8,
+        "partial_scores": {
+          "intent": 0.47,
+          "vocabulary": 0.2,
+          "spelling": 0.07,
+          "grammar": 0.11
+        },
+        "intent_analysis": {
+          "intent_match_score": 95,
+          "understood_concept": true,
+          "key_concepts_identified": [
+            "Sumit did not help his father",
+            "this is why the father was upset"
+          ],
+          "key_concepts_missed": [
+            "explicitly stating that Sumit was lazy",
+            "mentioning the family business or refusal to help with it"
+          ],
+          "reasoning": "Student captured the main reason (not helping father) but did not use the word 'lazy' or mention the family business."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 80,
+          "appropriate_words": [
+            "help",
+            "father"
+          ],
+          "suggested_improvements": [
+            "use words like 'lazy', 'refused', or 'because' to more fully express the idea",
+            "use 'does' (correct spelling) or the contraction 'doesn't' for fluency"
+          ],
+          "reasoning": "Basic, age-appropriate words used; could add a connecting word to form a complete sentence."
+        },
+        "spelling_analysis": {
+          "spelling_score": 70,
+          "misspelled_words": [
+            {
+              "word": "dose",
+              "correct": "does",
+              "type": "phonetic/typo"
+            }
+          ],
+          "phonetic_attempts": [
+            "dose"
+          ],
+          "reasoning": "Single common phonetic error; otherwise words are recognizable."
+        },
+        "grammar_analysis": {
+          "grammar_score": 75,
+          "errors": [
+            {
+              "type": "auxiliary verb form/spelling and capitalization",
+              "fix": "He does not help his father."
+            }
+          ],
+          "strengths": [
+            "Clear subject-verb-object structure",
+            "Present-tense appropriate for this context",
+            "Concise expression of the main idea"
+          ],
+          "reasoning": "Needs capitalization and correct auxiliary verb form; could be expanded into a fuller sentence using 'because' for completeness."
+        },
+        "remarks": "Great job! You understood the main idea. Good phonetic spelling attempts!",
+        "suggestions": "Include: explicitly stating that Sumit was lazy, mentioning the family business or refusal to help with it | Word tip: use words like 'lazy', 'refused', or 'because' to more fully express the idea | Spelling: 'dose' → 'does'"
+      }
+    },
+    {
+      "question_id": "L11B",
+      "evaluation": {
+        "question_id": "L11B",
+        "final_score": 0.34,
+        "max_score": 1,
+        "percentage": 33.5,
+        "partial_scores": {
+          "intent": 0.12,
+          "vocabulary": 0.12,
+          "spelling": 0.04,
+          "grammar": 0.04
+        },
+        "intent_analysis": {
+          "intent_match_score": 25,
+          "understood_concept": false,
+          "key_concepts_identified": [
+            "refers to a family member suggesting something"
+          ],
+          "key_concepts_missed": [
+            "correctly identifying Sumit's mother as the person who suggested the visit",
+            "providing a complete, clear response to the question"
+          ],
+          "reasoning": "Student indicates a family member but names the wrong person and does not answer in a complete sentence."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 50,
+          "appropriate_words": [
+            "dad"
+          ],
+          "suggested_improvements": [
+            "use complete words/verbs (e.g., 'suggested', 'visit')",
+            "use the character's name or role ('Sumit's mother') for clarity"
+          ],
+          "reasoning": "Basic family vocabulary is used but choice lacks precision for the question."
+        },
+        "spelling_analysis": {
+          "spelling_score": 40,
+          "misspelled_words": [
+            {
+              "word": "leve",
+              "correct": "leave / live / left (depending on intended meaning)",
+              "type": "phonetic/typo"
+            }
+          ],
+          "phonetic_attempts": [
+            "leve"
+          ],
+          "reasoning": "One clear misspelling; unclear intended verb. 'he' is lowercase but that is a grammar/capitalization issue."
+        },
+        "grammar_analysis": {
+          "grammar_score": 30,
+          "errors": [
+            {
+              "type": "sentence fragment / incomplete sentence",
+              "fix": "He left with his dad. / He lives with his dad. (choose based on intended meaning)"
+            },
+            {
+              "type": "capitalization",
+              "fix": "He → He (capitalize the first word)"
+            },
+            {
+              "type": "unclear subject-reference relative to question",
+              "fix": "Use the full subject: 'Sumit's mother suggested that he visit his grandfather.'"
+            }
+          ],
+          "strengths": [
+            "Uses simple subject and familiar nouns ('he', 'dad')"
+          ],
+          "reasoning": "Sentence is fragmentary and unclear; needs capitalization, a clear verb, and should state the correct person."
+        },
+        "remarks": "Keep practicing! Good phonetic spelling attempts!",
+        "suggestions": "Include: correctly identifying Sumit's mother as the person who suggested the visit, providing a complete, clear response to the question | Word tip: use complete words/verbs (e.g., 'suggested', 'visit') | Spelling: 'leve' → 'leave / live / left (depending on intended meaning)'"
+      }
+    },
+    {
+      "question_id": "L11C",
+      "evaluation": {
+        "question_id": "L11C",
+        "final_score": 0.59,
+        "max_score": 1,
+        "percentage": 59.2,
+        "partial_scores": {
+          "intent": 0.3,
+          "vocabulary": 0.17,
+          "spelling": 0.07,
+          "grammar": 0.05
+        },
+        "intent_analysis": {
+          "intent_match_score": 60,
+          "understood_concept": true,
+          "key_concepts_identified": [
+            "do something in the morning",
+            "perform the action every day"
+          ],
+          "key_concepts_missed": [
+            "wake up before sunrise (specific timing)",
+            "visit the Shiv temple",
+            "inspect farms, shops, and stables"
+          ],
+          "reasoning": "Student conveyed the idea of doing something each morning but missed key specific actions and details."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 70,
+          "appropriate_words": [
+            "go",
+            "every"
+          ],
+          "suggested_improvements": [
+            "use 'morning' instead of 'moring'",
+            "use more specific verbs (wake up, visit, inspect) to match the story"
+          ],
+          "reasoning": "Word choices are simple and age-appropriate but lack specificity."
+        },
+        "spelling_analysis": {
+          "spelling_score": 65,
+          "misspelled_words": [
+            {
+              "word": "moring",
+              "correct": "morning",
+              "type": "phonetic"
+            }
+          ],
+          "phonetic_attempts": [
+            "moring"
+          ],
+          "reasoning": "One clear phonetic misspelling; otherwise short response limits other errors."
+        },
+        "grammar_analysis": {
+          "grammar_score": 35,
+          "errors": [
+            {
+              "type": "sentence fragment/incomplete sentence",
+              "fix": "He advised him to go every morning."
+            },
+            {
+              "type": "word order",
+              "fix": "Change 'go moring every' to 'go every morning' or 'wake up every morning'."
+            }
+          ],
+          "strengths": [
+            "uses the word 'every' to indicate habitual action",
+            "simple vocabulary appropriate for the age level"
+          ],
+          "reasoning": "Response is a fragment with incorrect word order; needs a complete sentence and clearer verb choice."
+        },
+        "remarks": "Nice try! You understood the main idea. Good phonetic spelling attempts!",
+        "suggestions": "Include: wake up before sunrise (specific timing), visit the Shiv temple | Word tip: use 'morning' instead of 'moring' | Spelling: 'moring' → 'morning'"
+      }
+    },
+    {
+      "question_id": "L11D",
+      "evaluation": {
+        "question_id": "L11D",
+        "final_score": 0.54,
+        "max_score": 1,
+        "percentage": 54.0,
+        "partial_scores": {
+          "intent": 0.25,
+          "vocabulary": 0.15,
+          "spelling": 0.1,
+          "grammar": 0.04
+        },
+        "intent_analysis": {
+          "intent_match_score": 50,
+          "understood_concept": false,
+          "key_concepts_identified": [
+            "goes to work every day"
+          ],
+          "key_concepts_missed": [
+            "becomes responsible",
+            "becomes hardworking",
+            "business improves",
+            "workers become honest",
+            "visiting the temple leads to change"
+          ],
+          "reasoning": "Student captured the action of going to work daily but missed the consequences and character change."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 60,
+          "appropriate_words": [
+            "go",
+            "every day",
+            "work"
+          ],
+          "suggested_improvements": [
+            "use verbs like 'became' or 'started'",
+            "use adjectives: 'responsible', 'hardworking'",
+            "mention results: 'the business improved', 'workers became honest'",
+            "use prepositions correctly: 'go to work'"
+          ],
+          "reasoning": "Simple basic words are appropriate for age but more precise words are needed to answer fully."
+        },
+        "spelling_analysis": {
+          "spelling_score": 95,
+          "misspelled_words": [],
+          "phonetic_attempts": [],
+          "reasoning": "No clear spelling errors; issues are grammatical/word order rather than spelling."
+        },
+        "grammar_analysis": {
+          "grammar_score": 30,
+          "errors": [
+            {
+              "type": "not a complete sentence / missing subject",
+              "fix": "He started going to work every day."
+            },
+            {
+              "type": "word order / missing preposition",
+              "fix": "to go to work every day -> to go to work every day (correct order: 'go to work every day')"
+            },
+            {
+              "type": "doesn't state change or consequence",
+              "fix": "He became responsible and hardworking, and the business improved."
+            }
+          ],
+          "strengths": [
+            "uses simple vocabulary to indicate action",
+            "includes 'every day' to show frequency"
+          ],
+          "reasoning": "Answer is fragmentary and ungrammatical; needs a subject and complete sentence form and clearer phrasing."
+        },
+        "remarks": "Nice try!",
+        "suggestions": "Include: becomes responsible, becomes hardworking | Word tip: use verbs like 'became' or 'started' | Grammar: He started going to work every day."
+      }
+    }
+  ]
+}

@@ -33,9 +33,7 @@ wheels/
 *.swo
 *~
 
-# Evaluation results
-evaluation_results/
-evaluation_results_optimized/
+
 
 # OS
 .DS_Store

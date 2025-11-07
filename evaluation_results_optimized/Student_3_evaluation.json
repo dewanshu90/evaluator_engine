@@ -1,0 +1,561 @@
+{
+  "student_name": "Student_3",
+  "evaluation_date": "2025-11-07T22:04:27.280126",
+  "total_score": 7.72,
+  "max_score": 9,
+  "percentage": 85.8,
+  "results": [
+    {
+      "question_id": "L8A",
+      "evaluation": {
+        "question_id": "L8A",
+        "final_score": 0.99,
+        "max_score": 1,
+        "percentage": 98.8,
+        "partial_scores": {
+          "intent": 0.5,
+          "vocabulary": 0.24,
+          "spelling": 0.1,
+          "grammar": 0.15
+        },
+        "intent_analysis": {
+          "intent_match_score": 100,
+          "understood_concept": true,
+          "key_concepts_identified": [
+            "Anna could not go to the park because it was raining"
+          ],
+          "key_concepts_missed": [],
+          "reasoning": "Clearly identified the reason from the text."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 95,
+          "appropriate_words": [
+            "raining"
+          ],
+          "suggested_improvements": [
+            "Include the causal connector 'because' to mirror the question (e.g., 'Because it was raining')."
+          ],
+          "reasoning": "Simple, age-appropriate vocabulary; very clear."
+        },
+        "spelling_analysis": {
+          "spelling_score": 100,
+          "misspelled_words": [],
+          "phonetic_attempts": [],
+          "reasoning": "No spelling errors."
+        },
+        "grammar_analysis": {
+          "grammar_score": 100,
+          "errors": [],
+          "strengths": [
+            "complete sentence",
+            "correct tense (past progressive)",
+            "proper subject-verb agreement"
+          ],
+          "reasoning": "Grammatically correct and concise."
+        },
+        "remarks": "Excellent work! You understood the main idea.",
+        "suggestions": "Word tip: Include the causal connector 'because' to mirror the question (e.g., 'Because it was raining')."
+      }
+    },
+    {
+      "question_id": "L8B",
+      "evaluation": {
+        "question_id": "L8B",
+        "final_score": 0.97,
+        "max_score": 1,
+        "percentage": 97.0,
+        "partial_scores": {
+          "intent": 0.5,
+          "vocabulary": 0.24,
+          "spelling": 0.1,
+          "grammar": 0.14
+        },
+        "intent_analysis": {
+          "intent_match_score": 100,
+          "understood_concept": true,
+          "key_concepts_identified": [
+            "Identified that Max wanted to play",
+            "Recognized that Anna's dog is the one who wanted to play"
+          ],
+          "key_concepts_missed": [],
+          "reasoning": "Student correctly identified the character who wanted to play."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 95,
+          "appropriate_words": [
+            "Her",
+            "dog",
+            "max"
+          ],
+          "suggested_improvements": [
+            "Capitalize proper nouns: 'Max'.",
+            "For a direct question, answer with the name alone ('Max') for conciseness."
+          ],
+          "reasoning": "Word choice is age-appropriate; only refinement is capitalization and answer form."
+        },
+        "spelling_analysis": {
+          "spelling_score": 98,
+          "misspelled_words": [],
+          "phonetic_attempts": [],
+          "reasoning": "No spelling errors; 'max' is spelled correctly (capitalization is addressed under grammar)."
+        },
+        "grammar_analysis": {
+          "grammar_score": 90,
+          "errors": [
+            {
+              "type": "capitalization",
+              "fix": "Her dog Max -> Her dog Max (capitalize 'M' to 'Max')"
+            },
+            {
+              "type": "preferred_answer_form",
+              "fix": "Use 'Max.' as the concise answer to 'Who wanted to play with Anna?'"
+            }
+          ],
+          "strengths": [
+            "Clear noun phrase identifying who wanted to play",
+            "Correct possessive 'Her' linking the dog to Anna"
+          ],
+          "reasoning": "Minor issues: proper noun capitalization and answer could be more concise; sentence fragment is acceptable for short answers."
+        },
+        "remarks": "Excellent work! You understood the main idea.",
+        "suggestions": "Word tip: Capitalize proper nouns: 'Max'. | Grammar: Her dog Max -> Her dog Max (capitalize 'M' to 'Max')"
+      }
+    },
+    {
+      "question_id": "L8C",
+      "evaluation": {
+        "question_id": "L8C",
+        "final_score": 0.92,
+        "max_score": 1,
+        "percentage": 92.0,
+        "partial_scores": {
+          "intent": 0.47,
+          "vocabulary": 0.23,
+          "spelling": 0.1,
+          "grammar": 0.12
+        },
+        "intent_analysis": {
+          "intent_match_score": 95,
+          "understood_concept": true,
+          "key_concepts_identified": [
+            "rain",
+            "rain falling outside the window"
+          ],
+          "key_concepts_missed": [],
+          "reasoning": "Student identified the correct detail (rain) from the passage."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 90,
+          "appropriate_words": [
+            "rain",
+            "fall"
+          ],
+          "suggested_improvements": [
+            "Use the noun phrase 'the rain' or 'the rain falling' rather than 'The rain fall'."
+          ],
+          "reasoning": "Word choice is age-appropriate though phrasing is slightly off."
+        },
+        "spelling_analysis": {
+          "spelling_score": 100,
+          "misspelled_words": [],
+          "phonetic_attempts": [],
+          "reasoning": "All words spelled correctly."
+        },
+        "grammar_analysis": {
+          "grammar_score": 80,
+          "errors": [
+            {
+              "type": "phrase structure / verb form",
+              "fix": "The rain. (or) The rain was falling."
+            }
+          ],
+          "strengths": [
+            "correct article usage",
+            "correct capitalization of sentence start"
+          ],
+          "reasoning": "Meaning is clear but the phrase 'The rain fall' is ungrammatical; revise to a proper noun phrase or verb form."
+        },
+        "remarks": "Excellent work! You understood the main idea.",
+        "suggestions": "Word tip: Use the noun phrase 'the rain' or 'the rain falling' rather than 'The rain fall'. | Grammar: The rain. (or) The rain was falling."
+      }
+    },
+    {
+      "question_id": "L8D",
+      "evaluation": {
+        "question_id": "L8D",
+        "final_score": 0.99,
+        "max_score": 1,
+        "percentage": 99.2,
+        "partial_scores": {
+          "intent": 0.5,
+          "vocabulary": 0.25,
+          "spelling": 0.1,
+          "grammar": 0.14
+        },
+        "intent_analysis": {
+          "intent_match_score": 100,
+          "understood_concept": true,
+          "key_concepts_identified": [
+            "Anna is hoping to go to the park"
+          ],
+          "key_concepts_missed": [],
+          "reasoning": "Direct, correct identification of Anna's hope."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 100,
+          "appropriate_words": [
+            "go",
+            "park"
+          ],
+          "suggested_improvements": [],
+          "reasoning": "Simple, age-appropriate word choice."
+        },
+        "spelling_analysis": {
+          "spelling_score": 100,
+          "misspelled_words": [],
+          "phonetic_attempts": [],
+          "reasoning": "No spelling errors."
+        },
+        "grammar_analysis": {
+          "grammar_score": 95,
+          "errors": [
+            {
+              "type": "fragment",
+              "fix": "She hopes to go to the park."
+            }
+          ],
+          "strengths": [
+            "Correct verb form",
+            "Proper preposition use"
+          ],
+          "reasoning": "Answer is a short phrase rather than a complete sentence, but grammatically correct for a short-answer response."
+        },
+        "remarks": "Excellent work! You understood the main idea.",
+        "suggestions": "Grammar: She hopes to go to the park."
+      }
+    },
+    {
+      "question_id": "L9A",
+      "evaluation": {
+        "question_id": "L9A",
+        "final_score": 0.83,
+        "max_score": 1,
+        "percentage": 83.2,
+        "partial_scores": {
+          "intent": 0.28,
+          "vocabulary": 0.21,
+          "spelling": 0.15,
+          "grammar": 0.19
+        },
+        "intent_analysis": {
+          "intent_match_score": 70,
+          "understood_concept": true,
+          "key_concepts_identified": [
+            "children",
+            "see-saw",
+            "balloon",
+            "park",
+            "football"
+          ],
+          "key_concepts_missed": [
+            "kite",
+            "swing",
+            "slide",
+            "mud"
+          ],
+          "reasoning": "Student captured the general playground scene but omitted several given clue words (kite, swing, slide, mud)."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 85,
+          "appropriate_words": [
+            "seesaw",
+            "balloon",
+            "park",
+            "football",
+            "sand"
+          ],
+          "suggested_improvements": [
+            "Include the remaining clue words (kite, swing, slide, mud).",
+            "Use slightly more descriptive language (e.g., colorful kite, wooden swings).",
+            "Vary sentence openings for better flow."
+          ],
+          "reasoning": "Word choice is age-appropriate and clear; could add more descriptive words and the missing clues."
+        },
+        "spelling_analysis": {
+          "spelling_score": 100,
+          "misspelled_words": [],
+          "phonetic_attempts": [],
+          "reasoning": "No spelling errors detected."
+        },
+        "grammar_analysis": {
+          "grammar_score": 95,
+          "errors": [],
+          "strengths": [
+            "Simple sentences are grammatically correct.",
+            "Verb tense and subject-verb agreement are appropriate.",
+            "Clear sentence structure and punctuation."
+          ],
+          "reasoning": "Grammar is strong; minor stylistic improvements could increase coherence and variety."
+        },
+        "remarks": "Great job! You understood the main idea.",
+        "suggestions": "Include: kite, swing | Word tip: Include the remaining clue words (kite, swing, slide, mud)."
+      }
+    },
+    {
+      "question_id": "L11A",
+      "evaluation": {
+        "question_id": "L11A",
+        "final_score": 0.84,
+        "max_score": 1,
+        "percentage": 84.0,
+        "partial_scores": {
+          "intent": 0.45,
+          "vocabulary": 0.2,
+          "spelling": 0.1,
+          "grammar": 0.09
+        },
+        "intent_analysis": {
+          "intent_match_score": 90,
+          "understood_concept": true,
+          "key_concepts_identified": [
+            "Sumit was lazy",
+            "he did not go to the farm / refused to help"
+          ],
+          "key_concepts_missed": [
+            "explicit mention that it was the family business",
+            "stating the father's reaction in third person (uses 'you')"
+          ],
+          "reasoning": "Student captured the main reason (laziness/refusal to go to the farm) but used the wrong perspective and omitted 'family business.'"
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 80,
+          "appropriate_words": [
+            "lazy",
+            "farm"
+          ],
+          "suggested_improvements": [
+            "Use phrases like 'refused to help' or 'refused to go' instead of 'so lazy to go'",
+            "Include 'family business' if relevant"
+          ],
+          "reasoning": "Word choices are simple and age-appropriate but phrasing is slightly awkward."
+        },
+        "spelling_analysis": {
+          "spelling_score": 100,
+          "misspelled_words": [],
+          "phonetic_attempts": [],
+          "reasoning": "No spelling errors."
+        },
+        "grammar_analysis": {
+          "grammar_score": 60,
+          "errors": [
+            {
+              "type": "wrong pronoun/person",
+              "fix": "Replace 'you' with 'he' or 'Sumit' (e.g., 'Sumit's father was upset with him because he was so lazy...')"
+            },
+            {
+              "type": "awkward collocation/word choice",
+              "fix": "Use 'too lazy to' or 'refused to' instead of 'so lazy to' (e.g., 'too lazy to go to the farm' or 'refused to go to the farm')"
+            },
+            {
+              "type": "sentence fragment/dependent clause",
+              "fix": "Avoid starting with 'Because' alone; make a complete independent clause (e.g., 'Sumit's father was upset because he was too lazy to go to the farm.')"
+            }
+          ],
+          "strengths": [
+            "Simple, clear causal idea",
+            "Correct basic verb tense ('were')"
+          ],
+          "reasoning": "Meaning is clear but pronoun, phrasing, and sentence structure need correction to meet the instruction for a complete, third-person sentence."
+        },
+        "remarks": "Great job! You understood the main idea.",
+        "suggestions": "Include: explicit mention that it was the family business, stating the father's reaction in third person (uses 'you') | Word tip: Use phrases like 'refused to help' or 'refused to go' instead of 'so lazy to go' | Grammar: Replace 'you' with 'he' or 'Sumit' (e.g., 'Sumit's father was upset with him because he was so lazy...')"
+      }
+    },
+    {
+      "question_id": "L11B",
+      "evaluation": {
+        "question_id": "L11B",
+        "final_score": 0.94,
+        "max_score": 1,
+        "percentage": 94.0,
+        "partial_scores": {
+          "intent": 0.5,
+          "vocabulary": 0.25,
+          "spelling": 0.1,
+          "grammar": 0.09
+        },
+        "intent_analysis": {
+          "intent_match_score": 100,
+          "understood_concept": true,
+          "key_concepts_identified": [
+            "Identified who suggested Sumit visit his grandfather"
+          ],
+          "key_concepts_missed": [],
+          "reasoning": "Student correctly identified the character who made the suggestion."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 100,
+          "appropriate_words": [
+            "Sumit's",
+            "mother"
+          ],
+          "suggested_improvements": [
+            "Use a complete sentence and include a verb (e.g., 'suggested' or 'advised') to meet the task requirement."
+          ],
+          "reasoning": "Word choice is age-appropriate and accurate."
+        },
+        "spelling_analysis": {
+          "spelling_score": 100,
+          "misspelled_words": [],
+          "phonetic_attempts": [],
+          "reasoning": "No spelling errors detected."
+        },
+        "grammar_analysis": {
+          "grammar_score": 60,
+          "errors": [
+            {
+              "type": "sentence fragment",
+              "fix": "Sumit's mother suggested that he visit his grandfather for help."
+            }
+          ],
+          "strengths": [
+            "Correct use of possessive form for 'Sumit's'",
+            "Clear and concise answer content"
+          ],
+          "reasoning": "Answer is correct but not in a complete sentence as requested; add a verb to form a full sentence."
+        },
+        "remarks": "Excellent work! You understood the main idea.",
+        "suggestions": "Word tip: Use a complete sentence and include a verb (e.g., 'suggested' or 'advised') to meet the task requirement. | Grammar: Sumit's mother suggested that he visit his grandfather for help."
+      }
+    },
+    {
+      "question_id": "L11C",
+      "evaluation": {
+        "question_id": "L11C",
+        "final_score": 0.69,
+        "max_score": 1,
+        "percentage": 69.0,
+        "partial_scores": {
+          "intent": 0.3,
+          "vocabulary": 0.2,
+          "spelling": 0.1,
+          "grammar": 0.09
+        },
+        "intent_analysis": {
+          "intent_match_score": 60,
+          "understood_concept": true,
+          "key_concepts_identified": [
+            "visit the temple",
+            "go to the farm",
+            "sequence: temple then farm"
+          ],
+          "key_concepts_missed": [
+            "wake up before sunrise",
+            "inspect all his farms (plural) and other properties",
+            "check shops and stables",
+            "do these tasks every day"
+          ],
+          "reasoning": "Student captured the basic actions (temple, farm) and their order but missed important details about timing, scope, and other places to inspect."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 80,
+          "appropriate_words": [
+            "temple",
+            "farm",
+            "then",
+            "go"
+          ],
+          "suggested_improvements": [
+            "use verbs that match the instruction (e.g., 'wake up', 'visit', 'inspect', 'check')",
+            "specify 'Shiv temple' and 'shops and stables' to match the story",
+            "use a complete sentence with appropriate linking words"
+          ],
+          "reasoning": "Word choice is simple and age-appropriate but could be more specific to match the full advice."
+        },
+        "spelling_analysis": {
+          "spelling_score": 100,
+          "misspelled_words": [],
+          "phonetic_attempts": [],
+          "reasoning": "No spelling errors detected."
+        },
+        "grammar_analysis": {
+          "grammar_score": 60,
+          "errors": [
+            {
+              "type": "incomplete sentence / missing subject",
+              "fix": "Write a full sentence, e.g. 'Sumit's grandfather told him to go to the temple and then check his farms.'"
+            },
+            {
+              "type": "lack of capitalization and punctuation",
+              "fix": "Capitalize the first word and end with a period: 'Go to the temple, then go to the farm.'"
+            }
+          ],
+          "strengths": [
+            "Uses a clear sequence word ('then') to show order",
+            "Simple verbs are used correctly"
+          ],
+          "reasoning": "The response communicates the idea but should be written as a complete, properly capitalized sentence and include more of the original details."
+        },
+        "remarks": "Good effort! You understood the main idea.",
+        "suggestions": "Include: wake up before sunrise, inspect all his farms (plural) and other properties | Word tip: use verbs that match the instruction (e.g., 'wake up', 'visit', 'inspect', 'check') | Grammar: Write a full sentence, e.g. 'Sumit's grandfather told him to go to the temple and then check his farms.'"
+      }
+    },
+    {
+      "question_id": "L11D",
+      "evaluation": {
+        "question_id": "L11D",
+        "final_score": 0.55,
+        "max_score": 1,
+        "percentage": 55.2,
+        "partial_scores": {
+          "intent": 0.15,
+          "vocabulary": 0.17,
+          "spelling": 0.1,
+          "grammar": 0.13
+        },
+        "intent_analysis": {
+          "intent_match_score": 30,
+          "understood_concept": false,
+          "key_concepts_identified": [
+            "business improved/they became better off"
+          ],
+          "key_concepts_missed": [
+            "Sumit becoming responsible",
+            "Sumit becoming hardworking",
+            "workers becoming honest",
+            "Sumit visiting the temple and going to work every day as the cause"
+          ],
+          "reasoning": "Answer captures a possible outcome (wealth) but misses the key causal changes in Sumit's behavior and workers' honesty."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 70,
+          "appropriate_words": [
+            "rich"
+          ],
+          "suggested_improvements": [
+            "use words like 'responsible', 'hardworking', 'honest', 'business improved'",
+            "specify subjects (e.g., 'Sumit', 'the workers') instead of 'they')"
+          ],
+          "reasoning": "Simple age-appropriate word but vague and ambiguous in reference."
+        },
+        "spelling_analysis": {
+          "spelling_score": 100,
+          "misspelled_words": [],
+          "phonetic_attempts": [],
+          "reasoning": "No spelling errors."
+        },
+        "grammar_analysis": {
+          "grammar_score": 85,
+          "errors": [],
+          "strengths": [
+            "Complete simple sentence",
+            "Correct tense and subject-verb agreement"
+          ],
+          "reasoning": "Grammatically correct but overly brief and lacking necessary detail."
+        },
+        "remarks": "Nice try!",
+        "suggestions": "Include: Sumit becoming responsible, Sumit becoming hardworking | Word tip: use words like 'responsible', 'hardworking', 'honest', 'business improved'"
+      }
+    }
+  ]
+}

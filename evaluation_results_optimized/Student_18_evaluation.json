@@ -1,0 +1,741 @@
+{
+  "student_name": "Student_18",
+  "evaluation_date": "2025-11-07T22:47:47.834355",
+  "total_score": 1.88,
+  "max_score": 9,
+  "percentage": 20.9,
+  "results": [
+    {
+      "question_id": "L8A",
+      "evaluation": {
+        "question_id": "L8A",
+        "final_score": 0.82,
+        "max_score": 1,
+        "percentage": 81.8,
+        "partial_scores": {
+          "intent": 0.35,
+          "vocabulary": 0.23,
+          "spelling": 0.1,
+          "grammar": 0.14
+        },
+        "intent_analysis": {
+          "intent_match_score": 70,
+          "understood_concept": true,
+          "key_concepts_identified": [
+            "Identifies rain as relevant",
+            "Understands Anna observed the rain",
+            "Implies link between rain and park plans"
+          ],
+          "key_concepts_missed": [
+            "Did not explicitly state the causal answer 'because it was raining'",
+            "Did not directly answer that Anna couldn't go to the park"
+          ],
+          "reasoning": "Student shows partial comprehension by restating evidence but failed to phrase the explicit causal answer."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 90,
+          "appropriate_words": [
+            "watched",
+            "rain",
+            "window",
+            "hoping"
+          ],
+          "suggested_improvements": [
+            "Use the word 'because' to show cause",
+            "Include phrase 'couldn't go to the park' to directly answer"
+          ],
+          "reasoning": "Word choice is age-appropriate and clear; needs causal connector for a direct answer."
+        },
+        "spelling_analysis": {
+          "spelling_score": 100,
+          "misspelled_words": [],
+          "phonetic_attempts": [],
+          "reasoning": "No spelling errors."
+        },
+        "grammar_analysis": {
+          "grammar_score": 95,
+          "errors": [],
+          "strengths": [
+            "Complete sentence",
+            "Correct tense",
+            "Subject-verb agreement"
+          ],
+          "reasoning": "Grammar is correct; answer should be rephrased to explicitly state the reason (causal form)."
+        },
+        "remarks": "Great job! You understood the main idea.",
+        "suggestions": "Include: Did not explicitly state the causal answer 'because it was raining', Did not directly answer that Anna couldn't go to the park | Word tip: Use the word 'because' to show cause"
+      }
+    },
+    {
+      "question_id": "L8B",
+      "evaluation": {
+        "question_id": "L8B",
+        "final_score": 0.4,
+        "max_score": 1,
+        "percentage": 40.2,
+        "partial_scores": {
+          "intent": 0.07,
+          "vocabulary": 0.1,
+          "spelling": 0.1,
+          "grammar": 0.13
+        },
+        "intent_analysis": {
+          "intent_match_score": 15,
+          "understood_concept": false,
+          "key_concepts_identified": [
+            "refers to a person using a pronoun"
+          ],
+          "key_concepts_missed": [
+            "who wanted to play (Max/the dog)",
+            "connecting the bark to desire to play",
+            "answering the direct question from the text"
+          ],
+          "reasoning": "Response does not identify Max or the dog; meaning is unrelated to question."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 40,
+          "appropriate_words": [
+            "she",
+            "person",
+            "see"
+          ],
+          "suggested_improvements": [
+            "Use words from the passage (Max, dog, barked, play, wanted) and simple phrase like 'Max wanted to play.'"
+          ],
+          "reasoning": "Word choice is odd and not aligned with the passage; use concrete nouns from text."
+        },
+        "spelling_analysis": {
+          "spelling_score": 100,
+          "misspelled_words": [],
+          "phonetic_attempts": [],
+          "reasoning": "No spelling errors detected."
+        },
+        "grammar_analysis": {
+          "grammar_score": 85,
+          "errors": [
+            {
+              "type": "unclear pronoun reference",
+              "fix": "Replace 'She' with the specific noun: 'Max wanted to play.'"
+            }
+          ],
+          "strengths": [
+            "complete sentence",
+            "correct tense and agreement"
+          ],
+          "reasoning": "Grammatically well-formed but semantically off-target and pronoun is ambiguous."
+        },
+        "remarks": "Nice try!",
+        "suggestions": "Include: who wanted to play (Max/the dog), connecting the bark to desire to play | Word tip: Use words from the passage (Max, dog, barked, play, wanted) and simple phrase like 'Max wanted to play.' | Grammar: Replace 'She' with the specific noun: 'Max wanted to play.'"
+      }
+    },
+    {
+      "question_id": "L8C",
+      "evaluation": {
+        "question_id": "L8C",
+        "final_score": 0.14,
+        "max_score": 1,
+        "percentage": 14.2,
+        "partial_scores": {
+          "intent": 0.0,
+          "vocabulary": 0.03,
+          "spelling": 0.1,
+          "grammar": 0.02
+        },
+        "intent_analysis": {
+          "intent_match_score": 0,
+          "understood_concept": false,
+          "key_concepts_identified": [],
+          "key_concepts_missed": [
+            "the rain",
+            "Anna watched from her window",
+            "the park (possible later plan)",
+            "Max the dog barking/playing"
+          ],
+          "reasoning": "Answer is unrelated to the passage and shows no comprehension of the question."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 10,
+          "appropriate_words": [],
+          "suggested_improvements": [
+            "Use simple, text-related words: rain, window, park, dog, play, Anna",
+            "Keep answers brief and on-topic (e.g., 'the rain')"
+          ],
+          "reasoning": "Student used topic-specific brand/tech words that are irrelevant to the passage."
+        },
+        "spelling_analysis": {
+          "spelling_score": 95,
+          "misspelled_words": [],
+          "phonetic_attempts": [],
+          "reasoning": "Words are spelled correctly, but the content is irrelevant."
+        },
+        "grammar_analysis": {
+          "grammar_score": 15,
+          "errors": [
+            {
+              "type": "fragment/incomplete answer",
+              "fix": "Provide a complete, on-topic noun phrase or sentence: 'the rain.'"
+            },
+            {
+              "type": "irrelevant content/incorrect focus",
+              "fix": "Answer using information from the passage rather than unrelated terms."
+            }
+          ],
+          "strengths": [],
+          "reasoning": "Structure is fragmented and does not answer the question; needs to be concise and relevant."
+        },
+        "remarks": "Keep practicing!",
+        "suggestions": "Include: the rain, Anna watched from her window | Word tip: Use simple, text-related words: rain, window, park, dog, play, Anna | Grammar: Provide a complete, on-topic noun phrase or sentence: 'the rain.'"
+      }
+    },
+    {
+      "question_id": "L8D",
+      "evaluation": {
+        "question_id": "L8D",
+        "final_score": 0.17,
+        "max_score": 1,
+        "percentage": 17.0,
+        "partial_scores": {
+          "intent": 0.05,
+          "vocabulary": 0.05,
+          "spelling": 0.03,
+          "grammar": 0.04
+        },
+        "intent_analysis": {
+          "intent_match_score": 10,
+          "understood_concept": false,
+          "key_concepts_identified": [],
+          "key_concepts_missed": [
+            "to go to the park",
+            "Anna's hope about later"
+          ],
+          "reasoning": "Response is mostly gibberish and does not answer the question about Anna wanting to go to the park."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 20,
+          "appropriate_words": [
+            "the",
+            "same",
+            "here",
+            "to",
+            "see",
+            "what",
+            "is"
+          ],
+          "suggested_improvements": [
+            "Use clear, single-word verbs (go, want, play).",
+            "Answer directly with the key phrase: 'to go to the park'.",
+            "Use simple phrases appropriate to the student's level (e.g., 'She hopes to go to the park')."
+          ],
+          "reasoning": "Most of the response is nonsensical; a few common words are used correctly."
+        },
+        "spelling_analysis": {
+          "spelling_score": 25,
+          "misspelled_words": [
+            {
+              "word": "Iivjfufmv",
+              "correct": "unknown",
+              "type": "gibberish/typo"
+            },
+            {
+              "word": "to see what is this",
+              "correct": "to see what this is",
+              "type": "word order/grammar"
+            }
+          ],
+          "phonetic_attempts": [
+            "Iivjfufmv"
+          ],
+          "reasoning": "One large unreadable string and some word-order issues; many short words are spelled correctly."
+        },
+        "grammar_analysis": {
+          "grammar_score": 30,
+          "errors": [
+            {
+              "type": "fragment/gibberish",
+              "fix": "Replace 'Iivjfufmv the same here to see what is this' with a clear sentence, e.g. 'I'm not sure; I want to see what this is.'"
+            },
+            {
+              "type": "word order",
+              "fix": "'to see what is this' -> 'to see what this is'"
+            }
+          ],
+          "strengths": [
+            "Uses simple common words",
+            "Attempts a short phrase"
+          ],
+          "reasoning": "Sentence is fragmented and contains a gibberish token; basic word-order fixes and a full sentence rewrite are needed."
+        },
+        "remarks": "Keep practicing! Good phonetic spelling attempts!",
+        "suggestions": "Include: to go to the park, Anna's hope about later | Word tip: Use clear, single-word verbs (go, want, play). | Spelling: 'Iivjfufmv' → 'unknown'"
+      }
+    },
+    {
+      "question_id": "L9A",
+      "evaluation": {
+        "question_id": "L9A",
+        "final_score": 0.09,
+        "max_score": 1,
+        "percentage": 8.8,
+        "partial_scores": {
+          "intent": 0.02,
+          "vocabulary": 0.04,
+          "spelling": 0.01,
+          "grammar": 0.02
+        },
+        "intent_analysis": {
+          "intent_match_score": 5,
+          "understood_concept": false,
+          "key_concepts_identified": [],
+          "key_concepts_missed": [
+            "children",
+            "kite",
+            "see-saw",
+            "swing",
+            "slide",
+            "park",
+            "football",
+            "balloon",
+            "mud",
+            "sentence construction",
+            "descriptive language"
+          ],
+          "reasoning": "The response does not address the prompt or use the clue words; it appears as unrelated / mixed-language text."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 15,
+          "appropriate_words": [
+            "send",
+            "listen",
+            "you",
+            "will",
+            "come",
+            "take",
+            "number"
+          ],
+          "suggested_improvements": [
+            "Use the provided clue nouns (children, kite, see-saw, etc.).",
+            "Choose clear, age-appropriate nouns and verbs to form simple S-V-O sentences.",
+            "Avoid mixing languages and non-lexical strings (e.g., 'Jsjsjs')."
+          ],
+          "reasoning": "Some common verbs are present, but the vocabulary does not match the task and includes non-words and transliteration."
+        },
+        "spelling_analysis": {
+          "spelling_score": 10,
+          "misspelled_words": [
+            {
+              "word": "Jsjsjs",
+              "correct": "",
+              "type": "gibberish"
+            },
+            {
+              "word": "Karo",
+              "correct": "do / send (use English verb)",
+              "type": "transliteration"
+            },
+            {
+              "word": "ti",
+              "correct": "to",
+              "type": "typo"
+            },
+            {
+              "word": "listenmes",
+              "correct": "listen to me",
+              "type": "run-on/spacing"
+            },
+            {
+              "word": "cometake",
+              "correct": "come take / come and take",
+              "type": "run-on"
+            }
+          ],
+          "phonetic_attempts": [
+            "Karo",
+            "listenmes",
+            "cometake",
+            "ti",
+            "Jsjsjs"
+          ],
+          "reasoning": "Multiple nonstandard spellings, run-ons, and a gibberish token; few correct whole words."
+        },
+        "grammar_analysis": {
+          "grammar_score": 8,
+          "errors": [
+            {
+              "type": "no coherent sentence structure (fragments/run-ons)",
+              "fix": "Write full sentences with a clear subject and predicate, e.g., 'Please send his number so we can see how many will come.'"
+            },
+            {
+              "type": "mixed languages/transliteration",
+              "fix": "Use consistent English grammar and word order for this task."
+            },
+            {
+              "type": "missing spaces and word boundaries",
+              "fix": "Separate words properly: 'listenmes' -> 'listen to me'; 'cometake' -> 'come take' or 'come and take'."
+            }
+          ],
+          "strengths": [
+            "Includes imperative verbs (send, listen, come) suggesting intent to request action"
+          ],
+          "reasoning": "Grammar is largely absent — text is fragmented and not formed into meaningful sentences."
+        },
+        "remarks": "Keep practicing! Good phonetic spelling attempts!",
+        "suggestions": "Include: children, kite | Word tip: Use the provided clue nouns (children, kite, see-saw, etc.). | Spelling: 'Jsjsjs' → ''"
+      }
+    },
+    {
+      "question_id": "L11A",
+      "evaluation": {
+        "question_id": "L11A",
+        "final_score": 0.0,
+        "max_score": 1,
+        "percentage": 0.0,
+        "partial_scores": {
+          "intent": 0.0,
+          "vocabulary": 0.0,
+          "spelling": 0.0,
+          "grammar": 0.0
+        },
+        "intent_analysis": {
+          "intent_match_score": 0,
+          "understood_concept": false,
+          "key_concepts_identified": [],
+          "key_concepts_missed": [
+            "Sumit was lazy",
+            "Refused to help with the family business",
+            "Father was upset because of Sumit's behavior"
+          ],
+          "reasoning": "Answer is unintelligible; no comprehension of the story is evident."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 0,
+          "appropriate_words": [],
+          "suggested_improvements": [
+            "Use simple, content words from the story: lazy, help, family, father, business",
+            "Write a short complete sentence (subject + verb + reason)"
+          ],
+          "reasoning": "Response contains no recognizable words to evaluate word choice."
+        },
+        "spelling_analysis": {
+          "spelling_score": 0,
+          "misspelled_words": [
+            {
+              "word": "jb",
+              "correct": "",
+              "type": "unintelligible/garbled"
+            },
+            {
+              "word": "ccgjddihghkfcbvbg",
+              "correct": "",
+              "type": "unintelligible/garbled"
+            },
+            {
+              "word": "ceg",
+              "correct": "",
+              "type": "unintelligible/garbled"
+            }
+          ],
+          "phonetic_attempts": [],
+          "reasoning": "Tokens are non-words; cannot determine intended spellings or phonetic attempts."
+        },
+        "grammar_analysis": {
+          "grammar_score": 0,
+          "errors": [
+            {
+              "type": "no_sentence/fragment",
+              "fix": "Write a complete sentence such as: 'Sumit's father was upset with him because he was lazy and refused to help with the family business.'"
+            }
+          ],
+          "strengths": [],
+          "reasoning": "No grammatical structure present to assess tense, agreement, or sentence formation."
+        },
+        "remarks": "Keep practicing!",
+        "suggestions": "Include: Sumit was lazy, Refused to help with the family business | Word tip: Use simple, content words from the story: lazy, help, family, father, business | Spelling: 'jb' → ''"
+      }
+    },
+    {
+      "question_id": "L11B",
+      "evaluation": {
+        "question_id": "L11B",
+        "final_score": 0.06,
+        "max_score": 1,
+        "percentage": 6.2,
+        "partial_scores": {
+          "intent": 0.03,
+          "vocabulary": 0.03,
+          "spelling": 0.01,
+          "grammar": 0.01
+        },
+        "intent_analysis": {
+          "intent_match_score": 5,
+          "understood_concept": false,
+          "key_concepts_identified": [],
+          "key_concepts_missed": [
+            "Who suggested Sumit visit his grandfather",
+            "That the suggester was Sumit's mother",
+            "The idea of visiting grandfather for help"
+          ],
+          "reasoning": "Response is gibberish/mixed-language and does not show understanding of the required narrative detail."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 10,
+          "appropriate_words": [],
+          "suggested_improvements": [
+            "Use clear, simple English words: 'Sumit's', 'mother', 'suggests', 'visit', 'grandfather', 'for help'.",
+            "Write a complete sentence naming the character who suggested the visit."
+          ],
+          "reasoning": "Student used nonstandard/transliterated words rather than age-appropriate English vocabulary."
+        },
+        "spelling_analysis": {
+          "spelling_score": 5,
+          "misspelled_words": [
+            {
+              "word": "dn",
+              "correct": "didn't / don't (unclear)",
+              "type": "abbreviation/typo"
+            },
+            {
+              "word": "ka",
+              "correct": "(non-English transliteration — no direct English spelling)",
+              "type": "non-English transliteration"
+            },
+            {
+              "word": "bhi",
+              "correct": "(non-English transliteration — 'also' or omitted)",
+              "type": "non-English transliteration"
+            },
+            {
+              "word": "nahi",
+              "correct": "not",
+              "type": "transliteration"
+            },
+            {
+              "word": "kauseZ",
+              "correct": "because",
+              "type": "phonetic"
+            },
+            {
+              "word": "Ndjc",
+              "correct": "(unrecognizable/gibberish)",
+              "type": "unknown"
+            },
+            {
+              "word": "tere",
+              "correct": "your",
+              "type": "transliteration"
+            },
+            {
+              "word": "samajh kar",
+              "correct": "understanding / understand",
+              "type": "transliteration"
+            }
+          ],
+          "phonetic_attempts": [
+            "kauseZ",
+            "dn",
+            "Ndjc"
+          ],
+          "reasoning": "Many items are transliterated Hindi or gibberish; not standard English spellings."
+        },
+        "grammar_analysis": {
+          "grammar_score": 5,
+          "errors": [
+            {
+              "type": "not a complete sentence / fragment",
+              "fix": "Write a full sentence: 'Sumit's mother suggests that he visit his grandfather for help.'"
+            },
+            {
+              "type": "mixed languages / transliteration",
+              "fix": "Use consistent English structure and vocabulary rather than mixing transliterated words."
+            },
+            {
+              "type": "word order and coherence",
+              "fix": "Arrange subject + verb + object: e.g., 'Sumit's mother suggested he visit his grandfather.'"
+            }
+          ],
+          "strengths": [
+            "Student attempted to produce a response",
+            "Includes several short lexical items that could map to meaning in another language"
+          ],
+          "reasoning": "Response lacks English sentence structure and clarity; needs rewriting as a clear complete sentence."
+        },
+        "remarks": "Keep practicing! Good phonetic spelling attempts!",
+        "suggestions": "Include: Who suggested Sumit visit his grandfather, That the suggester was Sumit's mother | Word tip: Use clear, simple English words: 'Sumit's', 'mother', 'suggests', 'visit', 'grandfather', 'for help'. | Spelling: 'dn' → 'didn't / don't (unclear)'"
+      }
+    },
+    {
+      "question_id": "L11C",
+      "evaluation": {
+        "question_id": "L11C",
+        "final_score": 0.14,
+        "max_score": 1,
+        "percentage": 14.2,
+        "partial_scores": {
+          "intent": 0.03,
+          "vocabulary": 0.07,
+          "spelling": 0.02,
+          "grammar": 0.02
+        },
+        "intent_analysis": {
+          "intent_match_score": 5,
+          "understood_concept": false,
+          "key_concepts_identified": [],
+          "key_concepts_missed": [
+            "wake up before sunrise",
+            "visit the Shiv temple",
+            "inspect farms",
+            "inspect shops",
+            "inspect stables",
+            "daily routine/advice to be diligent"
+          ],
+          "reasoning": "Response is mostly gibberish and does not show understanding of the grandfather's advice."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 30,
+          "appropriate_words": [
+            "rain",
+            "best",
+            "world",
+            "take",
+            "good"
+          ],
+          "suggested_improvements": [
+            "wake up",
+            "sunrise",
+            "visit",
+            "Shiv temple",
+            "inspect",
+            "farms",
+            "shops",
+            "stables",
+            "daily",
+            "advised"
+          ],
+          "reasoning": "Some common words are present, but topic-specific vocabulary needed to answer the question is missing."
+        },
+        "spelling_analysis": {
+          "spelling_score": 20,
+          "misspelled_words": [
+            {
+              "word": "Ndjdhdnfhfhdd",
+              "correct": "(no clear intended word)",
+              "type": "gibberish"
+            },
+            {
+              "word": "t",
+              "correct": "the",
+              "type": "typo"
+            },
+            {
+              "word": "in world",
+              "correct": "in the world",
+              "type": "missing word/article"
+            },
+            {
+              "word": "c",
+              "correct": "care",
+              "type": "incomplete/abbreviation"
+            }
+          ],
+          "phonetic_attempts": [
+            "t -> the",
+            "c -> care"
+          ],
+          "reasoning": "Many nonwords and typos; a few fragments suggest attempts at real words but overall spelling is poor."
+        },
+        "grammar_analysis": {
+          "grammar_score": 15,
+          "errors": [
+            {
+              "type": "fragment/missing complete sentence",
+              "fix": "Write a full sentence with a subject and verb, e.g., 'Sumit's grandfather advised him to wake up before sunrise.'"
+            },
+            {
+              "type": "unclear word order/run-on/confusing phrase",
+              "fix": "Organize ideas into a clear list or connected clauses: 'He should wake up before sunrise, visit the Shiv temple, and inspect his farms, shops, and stables every day.'"
+            }
+          ],
+          "strengths": [
+            "Uses simple words that can be put into short sentences if clarified"
+          ],
+          "reasoning": "Sentence structure is fragmented and incomplete; needs explicit subject-verb statements and clearer clause connections."
+        },
+        "remarks": "Keep practicing! Good phonetic spelling attempts!",
+        "suggestions": "Include: wake up before sunrise, visit the Shiv temple | Word tip: wake up | Spelling: 'Ndjdhdnfhfhdd' → '(no clear intended word)'"
+      }
+    },
+    {
+      "question_id": "L11D",
+      "evaluation": {
+        "question_id": "L11D",
+        "final_score": 0.06,
+        "max_score": 1,
+        "percentage": 6.2,
+        "partial_scores": {
+          "intent": 0.03,
+          "vocabulary": 0.03,
+          "spelling": 0.01,
+          "grammar": 0.01
+        },
+        "intent_analysis": {
+          "intent_match_score": 5,
+          "understood_concept": false,
+          "key_concepts_identified": [],
+          "key_concepts_missed": [
+            "Sumit becomes responsible",
+            "Sumit becomes hardworking",
+            "the business improves",
+            "the workers become honest"
+          ],
+          "reasoning": "Response is garbled and does not show comprehension of the story change."
+        },
+        "vocabulary_analysis": {
+          "vocabulary_score": 10,
+          "appropriate_words": [],
+          "suggested_improvements": [
+            "Use concrete verbs like 'becomes', 'works', 'improves'",
+            "Use nouns like 'business', 'workers', 'temple', 'responsibility', 'honesty'"
+          ],
+          "reasoning": "Mostly nonsense tokens; recommend simple, age-appropriate words to describe actions and outcomes."
+        },
+        "spelling_analysis": {
+          "spelling_score": 5,
+          "misspelled_words": [
+            {
+              "word": "Chcgdhdv",
+              "correct": null,
+              "type": "nonsense/typo"
+            },
+            {
+              "word": "u",
+              "correct": "you",
+              "type": "textism"
+            }
+          ],
+          "phonetic_attempts": [
+            "u -> you"
+          ],
+          "reasoning": "Many nonwords; only 'u' is a clear textism/phonetic shorthand."
+        },
+        "grammar_analysis": {
+          "grammar_score": 5,
+          "errors": [
+            {
+              "type": "fragment/run-on",
+              "fix": "Write a complete sentence with subject and verb, e.g. 'When Sumit started going to the temple and working every day, he became responsible and hardworking.'"
+            },
+            {
+              "type": "lack of clear subject/verb agreement",
+              "fix": "Ensure a clear subject ('he' or 'Sumit') and matching verb form ('became', 'changed')."
+            }
+          ],
+          "strengths": [
+            "Attempts to link ideas with 'and'"
+          ],
+          "reasoning": "Response lacks coherent sentence structure; needs a complete, connected sentence describing cause and effect."
+        },
+        "remarks": "Keep practicing! Good phonetic spelling attempts!",
+        "suggestions": "Include: Sumit becomes responsible, Sumit becomes hardworking | Word tip: Use concrete verbs like 'becomes', 'works', 'improves' | Spelling: 'Chcgdhdv' → 'None'"
+      }
+    }
+  ]
+}
