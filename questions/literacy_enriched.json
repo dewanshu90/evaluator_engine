@@ -1,0 +1,558 @@
+[
+  {
+    "question_id": "L1A",
+    "question_number": 1,
+    "question_text": "Mike has blue eyes and is __________ a business suit.",
+    "image_description": "No images, only text with a fill-in-the-blank sentence completion question.",
+    "options": [
+      {
+        "option_label": "a",
+        "option_text": "wearing"
+      },
+      {
+        "option_label": "b",
+        "option_text": "porting"
+      },
+      {
+        "option_label": "c",
+        "option_text": "wear"
+      },
+      {
+        "option_label": "d",
+        "option_text": "carry"
+      }
+    ],
+    "media_type": "text",
+    "context": " Assesses grammar knowledge (prepositions, adjectives, or verbs) and sentence completion using context clues.",
+    "strand": "Grammar",
+    "assessment_des": "Uses and applies grammar correctly in sentence structure",
+    "difficulty": "Easy",
+    "cognitive_steps_description": [
+      "Read the complete sentence to understand the context and what is being asked.",
+      "Look at the provided options and consider their meanings and grammatical fit in the sentence.",
+      "Select the option that correctly completes the sentence grammatically."
+    ],
+    "max_score": 1,
+    "expected_time_in_sec": 45,
+    "correct_answer": {
+      "option_label": "a",
+      "option_text": "wearing"
+    }
+  },
+  {
+    "question_id": "L2A",
+    "question_number": 2,
+    "question_text": "Do you like living in New York?",
+    "image_description": "No images, only text with a yes/no question.",
+    "options": [
+      {
+        "option_label": "a",
+        "option_text": "No, I doesn't."
+      },
+      {
+        "option_label": "b",
+        "option_text": "Yes, I do."
+      },
+      {
+        "option_label": "c",
+        "option_text": "Yes, I doesn't."
+      },
+      {
+        "option_label": "d",
+        "option_text": "Yes, I like."
+      }
+    ],
+    "media_type": "text",
+    "context": "Explores sentence structure, verb usage, and the ability to respond appropriately in written/spoken English using correct tense.",
+    "strand": "Grammar",
+    "assessment_des": "Responds appropriately to questions, using proper verb tense and syntax",
+    "difficulty": "Easy",
+    "cognitive_steps_description": [
+      "Students read the question to understand what is being asked.",
+      "Students evaluate each answer option for grammatical correctness and relevance to the question.",
+      "Students choose the most appropriate answer based on their analysis."
+    ],
+    "max_score": 1,
+    "expected_time_in_sec": 45,
+    "correct_answer": {
+      "option_label": "b",
+      "option_text": "Yes, I do."
+    }
+  },
+  {
+    "question_id": "L3A",
+    "question_number": 3,
+    "question_text": "What is the ending sound in 'fish'?",
+    "image_description": "No images, only text with a phonetic/phonics question.",
+    "options": [
+      {
+        "option_label": "a",
+        "option_text": "f"
+      },
+      {
+        "option_label": "b",
+        "option_text": "s"
+      },
+      {
+        "option_label": "c",
+        "option_text": "h"
+      },
+      {
+        "option_label": "d",
+        "option_text": "sh"
+      }
+    ],
+    "media_type": "text",
+    "context": "Tests phonemic awareness, ability to segment and identify sounds, critical for spelling and reading.",
+    "strand": "Phonics/  Spelling",
+    "assessment_des": "Identifies, segments, and manipulates sounds in words (phonemic awareness)",
+    "difficulty": "Easy",
+    "cognitive_steps_description": [
+      "Understand what is being asked about the word 'fish'.",
+      "Break down the word 'fish' to focus on the last sound heard.",
+      "Choose the option that correctly represents the ending sound."
+    ],
+    "max_score": 1,
+    "expected_time_in_sec": 45,
+    "correct_answer": {
+      "option_label": "c",
+      "option_text": "h"
+    }
+  },
+  {
+    "question_id": "L4A",
+    "question_number": 4,
+    "question_text": "Which word contains a silent letter?",
+    "image_description": "No images, only text with a vocabulary/phonics question.",
+    "options": [
+      {
+        "option_label": "a",
+        "option_text": "knit"
+      },
+      {
+        "option_label": "b",
+        "option_text": "bat"
+      },
+      {
+        "option_label": "c",
+        "option_text": "pin"
+      },
+      {
+        "option_label": "d",
+        "option_text": "bit"
+      }
+    ],
+    "media_type": "text",
+    "context": "Assesses understanding of spelling conventions, English word structure, and silent letters (e.g., “knight,” “write”).",
+    "strand": "Phonics/   Spelling",
+    "assessment_des": "Recognizes spelling conventions and silent letter usage",
+    "difficulty": "Easy",
+    "cognitive_steps_description": [
+      "Students read the question to understand what is being asked.",
+      "Students look at each option to determine if it contains a silent letter.",
+      "Students recognize that 'knit' has a silent 'k' and select it as the correct answer."
+    ],
+    "max_score": 1,
+    "expected_time_in_sec": 45,
+    "correct_answer": {
+      "option_label": "a",
+      "option_text": "knit"
+    }
+  },
+  {
+    "question_id": "L5A",
+    "question_number": 5,
+    "question_text": "Which word is spelled correctly?",
+    "image_description": "No images, only text with a spelling question.",
+    "options": [
+      {
+        "option_label": "a",
+        "option_text": "knollege"
+      },
+      {
+        "option_label": "b",
+        "option_text": "noledge"
+      },
+      {
+        "option_label": "c",
+        "option_text": "knowledge"
+      },
+      {
+        "option_label": "d",
+        "option_text": "knowlege"
+      }
+    ],
+    "media_type": "text",
+    "context": "Measures spelling knowledge, visual word recognition, and basic writing accuracy.",
+    "strand": "Phonics/   Spelling",
+    "assessment_des": "Demonstrates accurate spelling and visual word recognition",
+    "difficulty": "Easy",
+    "cognitive_steps_description": [
+      "Students read the question to understand what is being asked.",
+      "Students look at each option to identify which word is spelled correctly.",
+      "Students choose the option that they believe is the correct spelling."
+    ],
+    "max_score": 1,
+    "expected_time_in_sec": 45,
+    "correct_answer": {
+      "option_label": "c",
+      "option_text": "knowledge"
+    }
+  },
+  {
+    "question_id": "L6A",
+    "question_number": 6,
+    "question_text": "Choose the synonym for 'quick'.",
+    "image_description": "No images, only text with a vocabulary question asking for a synonym.",
+    "options": [
+      {
+        "option_label": "a",
+        "option_text": "slow"
+      },
+      {
+        "option_label": "b",
+        "option_text": "fast"
+      },
+      {
+        "option_label": "c",
+        "option_text": "quiet"
+      },
+      {
+        "option_label": "d",
+        "option_text": "loud"
+      }
+    ],
+    "media_type": "text",
+    "context": "Evaluates vocabulary depth, ability to match words with similar meaning, and expands descriptive language.",
+    "strand": "Vocabulary",
+    "assessment_des": "Selects synonym accurately, demonstrating understanding of word meaning",
+    "difficulty": "Medium",
+    "cognitive_steps_description": [
+      "Read the question carefully to understand what is being asked.",
+      "Identify 'quick' as the target word for which a synonym is needed.",
+      "Evaluate each option to determine which word has a similar meaning to 'quick'."
+    ],
+    "max_score": 1,
+    "expected_time_in_sec": 45,
+    "correct_answer": {
+      "option_label": "b",
+      "option_text": "fast"
+    }
+  },
+  {
+    "question_id": "L7A",
+    "question_number": 7,
+    "question_text": "Pick the antonym for 'appear'.",
+    "image_description": "No images, only text with a vocabulary question asking for an antonym.",
+    "options": [
+      {
+        "option_label": "a",
+        "option_text": "vanish"
+      },
+      {
+        "option_label": "b",
+        "option_text": "come"
+      },
+      {
+        "option_label": "c",
+        "option_text": "greet"
+      },
+      {
+        "option_label": "d",
+        "option_text": "arrive"
+      }
+    ],
+    "media_type": "text",
+    "context": "Assesses understanding of opposites and vocabulary relationships.",
+    "strand": "Vocabulary",
+    "assessment_des": "Identifies antonyms and shows understanding of word relationships",
+    "difficulty": "Medium",
+    "cognitive_steps_description": [
+      "Students read the question carefully to understand what is being asked.",
+      "Students focus on the word 'appear' to understand its meaning.",
+      "Students think about what word means the opposite of 'appear' and choose from the options provided."
+    ],
+    "max_score": 1,
+    "expected_time_in_sec": 45,
+    "correct_answer": {
+      "option_label": "a",
+      "option_text": "vanish"
+    }
+  },
+  {
+    "question_id": "L8A",
+    "question_number": 8,
+    "sub_question_label": "A",
+    "question_text": "Read the short passage and answer Q A-D:\n\n\"Anna watched the rain fall outside her window. She wondered if she would be able to go to the park later. Her dog Max barked, hoping to play too.\"\n\nA. Why couldn't Anna go to the park?",
+    "image_description": "No images, only text with a reading comprehension passage and question.",
+    "options": [
+      {
+        "option_label": "A",
+        "option_type": "text_field",
+        "option_text": "Short answer text"
+      }
+    ],
+    "media_type": "video",
+    "context": "Tests comprehension skills—recalling details, understanding main ideas, drawing inferences, and answering direct questions from text.",
+    "strand": "Reading and writing",
+    "assessment_des": "\tReads for meaning, recalls details and main idea, makes inferences, and answers comprehension questions",
+    "difficulty": "Hard",
+    "cognitive_steps_description": [
+      "Read the passage carefully to understand the context and details.",
+      "Determine the main idea of the passage, focusing on Anna's situation regarding the park.",
+      "Look for specific details in the text that explain why Anna might not be able to go to the park.",
+      "Construct a coherent answer based on the information gathered from the passage."
+    ],
+    "max_score": 1,
+    "expected_time_in_sec": 45,
+    "correct_answer": {
+      "option_label": "a",
+      "option_text": "Because it was raining."
+    }
+  },
+  {
+    "question_id": "L8B",
+    "question_number": 8,
+    "sub_question_label": "B",
+    "question_text": "Read the short passage and answer Q A-D:\n\n\"Anna watched the rain fall outside her window. She wondered if she would be able to go to the park later. Her dog Max barked, hoping to play too.\"\n\nB. Who wanted to play with Anna?",
+    "image_description": "No images, only text with a reading comprehension passage and question.",
+    "options": [
+      {
+        "option_label": "B",
+        "option_type": "text_field",
+        "option_text": "Short answer text"
+      }
+    ],
+    "media_type": "video",
+    "context": "Tests comprehension skills—recalling details, understanding main ideas, drawing inferences, and answering direct questions from text.",
+    "strand": "Reading and writing",
+    "assessment_des": "\tReads for meaning, recalls details and main idea, makes inferences, and answers comprehension questions",
+    "difficulty": "Hard",
+    "cognitive_steps_description": [
+      "Read the passage carefully to understand the context and details.",
+      "Look for clues in the passage that indicate who wanted to play with Anna.",
+      "Provide a concise answer in the text field based on your understanding."
+    ],
+    "max_score": 1,
+    "expected_time_in_sec": 45,
+    "correct_answer": {
+      "option_label": "a",
+      "option_text": "Max"
+    }
+  },
+  {
+    "question_id": "L8C",
+    "question_number": 8,
+    "sub_question_label": "C",
+    "question_text": "Read the short passage and answer Q A-D:\n\n\"Anna watched the rain fall outside her window. She wondered if she would be able to go to the park later. Her dog Max barked, hoping to play too.\"\n\nC. What did Anna watch from her window?",
+    "image_description": "No images, only text with a reading comprehension passage and question.",
+    "options": [
+      {
+        "option_label": "C",
+        "option_type": "text_field",
+        "option_text": "Short answer text"
+      }
+    ],
+    "media_type": "video",
+    "context": "Tests comprehension skills—recalling details, understanding main ideas, drawing inferences, and answering direct questions from text.",
+    "strand": "Reading and writing",
+    "assessment_des": "\tReads for meaning, recalls details and main idea, makes inferences, and answers comprehension questions",
+    "difficulty": "Hard",
+    "cognitive_steps_description": [
+      "Read the provided passage carefully to understand the context and details.",
+      "Focus on the specific details about what Anna is watching from her window.",
+      "Construct a short answer that accurately reflects the information from the passage."
+    ],
+    "max_score": 1,
+    "expected_time_in_sec": 45,
+    "correct_answer": {
+      "option_label": "a",
+      "option_text": "the rain"
+    }
+  },
+  {
+    "question_id": "L8D",
+    "question_number": 8,
+    "sub_question_label": "D",
+    "question_text": "Read the short passage and answer Q A-D:\n\n\"Anna watched the rain fall outside her window. She wondered if she would be able to go to the park later. Her dog Max barked, hoping to play too.\"\n\nD. What is Anna hoping for later?",
+    "image_description": "No images, only text with a reading comprehension passage and question.",
+    "options": [
+      {
+        "option_label": "D",
+        "option_type": "text_field",
+        "option_text": "Short answer text"
+      }
+    ],
+    "media_type": "video",
+    "context": "Tests comprehension skills—recalling details, understanding main ideas, drawing inferences, and answering direct questions from text.",
+    "strand": "Reading and writing",
+    "assessment_des": "\tReads for meaning, recalls details and main idea, makes inferences, and answers comprehension questions",
+    "difficulty": "Hard",
+    "cognitive_steps_description": [
+      "Read the provided passage carefully to understand the context.",
+      "Determine Anna's emotional state and what she desires based on her thoughts in the passage.",
+      "Summarize Anna's hope regarding her plans for later, specifically related to the park and her dog."
+    ],
+    "max_score": 1,
+    "expected_time_in_sec": 45,
+    "correct_answer": {
+      "option_label": "a",
+      "option_text": "to go to the park"
+    }
+  },
+  {
+    "question_id": "L9A",
+    "question_number": 9,
+    "question_text": "Look at the image given below. Frame 5 Sentences using the given clues words.\n\nClue Words: children, kite, see-saw, swing, slide, park, football, balloon, mud",
+    "image_description": "A colorful illustration of a playground scene showing multiple children engaged in various activities. The scene includes: children on a slide (orange/blue slide on the left), children playing with a football in the middle, children on swings (right side), a see-saw with children, a sandbox area with children playing in the sand (bottom left), children with a kite flying in the air, and children standing together on road with balloon. The setting appears to be a park with green grass and a cheerful, sunny atmosphere.",
+    "options": [
+      {
+        "option_type": "text_field",
+        "option_text": "Long answer text"
+      }
+    ],
+    "media_type": "image",
+    "context": "Assesses writing ability, sentence construction, descriptive language skills, and use of clues for coherent text production.",
+    "strand": "Writing",
+    "assessment_des": "Writes descriptive, coherent sentences using prompts/clues and proper grammar",
+    "difficulty": "Medium",
+    "cognitive_steps_description": [
+      "Examine the playground scene to understand the activities and elements present.",
+      "Recognize and list the clue words provided to guide sentence formation.",
+      "Create five coherent sentences that incorporate the clue words while describing the scene."
+    ],
+    "max_score": 1,
+    "expected_time_in_sec": 45,
+    "correct_answer": {
+      "option_label": "a",
+      "option_text": "The children are playing with a kite in the park. Some children are on the see-saw while others are on the swings. A group of kids is playing football in the middle of the playground. There is a colorful balloon floating above the slide. The children are having fun in the mud near the sandbox."
+    }
+  },
+  {
+    "question_id": "L11A",
+    "question_number": 11,
+    "sub_question_label": "A",
+    "question_text": "Carefully watch and listen to the story \"Lazy Boy.\"\n\nAfter watching, answer the following questions in complete sentences:\n\nA. Why was Sumit's father upset with him?",
+    "image_description": "A video thumbnail or story illustration showing the title \"Lazy Son\" with an image of a woman (mother figure) in blue clothing looking concerned, and a boy (Sumit) lying down appearing lazy or inactive.",
+    "options": [
+      {
+        "option_label": "A",
+        "option_type": "text_field",
+        "option_text": "Long answer text"
+      }
+    ],
+    "media_type": "video",
+    "context": "Assesses listening comprehension, ability to understand narrative details, recall sequence, interpret character actions/emotions, and answer in complete sentences.",
+    "strand": "Listening and writing",
+    "assessment_des": "Listens attentively, understands narrative details, recalls sequence, and answers orally/written in complete sentences",
+    "difficulty": "Hard",
+    "story_description": "# The Lazy Son\n\n\n\nIn a prosperous town lived a wealthy moneylender who exemplified hard work. Every morning before sunrise, he visited the Shiv temple, then inspected his farms, shops, and stables. His son, Sumit, was the opposite—lazy and unwilling to work. While his father rose early, Sumit remained in bed, refusing his father's calls to help with the business.\n\nThe moneylender grew deeply disappointed, but his pleas fell on deaf ears. Years later, he fell ill and died, leaving his thriving business to Sumit and his wife. Yet Sumit showed no interest in managing the enterprise. Without his father's watchful presence, the business crumbled, and losses mounted rapidly.\n\nDesperate, Sumit's mother approached him. \"Son, our business is failing. We face enormous losses. You must help.\" Sumit confessed his ignorance. \"Mother, I know nothing of business. Father never taught me because I was always lazy.\"\n\nHis mother offered a solution. \"Your grandfather in the next village has great knowledge of this business. Go seek his wisdom.\"\n\nThe next morning, Sumit visited his grandfather and explained their situation. His grandfather listened and then revealed his advice: \"Follow your father's path exactly. Wake before sunrise, visit the Shiv temple, then inspect all your farms, shops, and stables every single day.\"\n\nSumit agreed eagerly and began the very next morning. He woke before dawn, visited the temple, and made his rounds through all his properties without fail.\n\nThe workers noticed this sudden change. They whispered among themselves: \"The boss now comes every day! We can no longer get away with our schemes.\" Fear gripped them—they had grown accustomed to stealing from the absent owner through various fraudulent practices. With Sumit present daily, they knew they would be caught.\n\nOne by one, the laborers abandoned their dishonest activities and began working honestly. As the scams ceased, so did the losses. The business stabilized, then flourished. Within weeks, prosperity returned to the family.\n\nGrateful and amazed, Sumit returned to his grandfather. \"Grandfather, you've performed a miracle! Our business thrives again because of your wisdom!\"\n\nHis grandfather smiled knowingly. \"My boy, I did nothing. You accomplished this through your own hard work. But understand—your previous wealth was lost because of your laziness. The workers exploited your absence and committed countless frauds. Now that you're present daily, they fear being caught and work honestly. Your discipline transformed everything.\"\n\nSumit finally understood the lesson his father had tried to teach him. Laziness had nearly destroyed his family's fortune, while dedication and hard work had restored it. From that moment, he abandoned his indolent ways and became a hardworking man, honoring his father's legacy.\n\n## Moral\n\nLaziness breeds problems and invites others to take advantage. Hard work, consistency, and dedication—even in small, daily efforts—inspire ",
+    "cognitive_steps_description": [
+      "Students must attentively watch and listen to the story to gather information.",
+      "Students need to remember specific details about the father's feelings towards Sumit's behavior.",
+      "Students should construct a complete sentence that clearly explains why Sumit's father was upset."
+    ],
+    "max_score": 1,
+    "expected_time_in_sec": 45,
+    "correct_answer": {
+      "option_label": "a",
+      "option_text": "Sumit's father was upset with him because he was lazy and refused to help with the family business."
+    }
+  },
+  {
+    "question_id": "L11B",
+    "question_number": 11,
+    "sub_question_label": "B",
+    "question_text": "Carefully watch and listen to the story \"Lazy Boy.\"\n\nAfter watching, answer the following questions in complete sentences:\n\nB. Who suggests that Sumit visit his grandfather for help?",
+    "image_description": "A video thumbnail or story illustration showing the title \"Lazy Son\" with an image of a woman (mother figure) in blue clothing looking concerned, and a boy (Sumit) lying down appearing lazy or inactive.",
+    "options": [
+      {
+        "option_label": "B",
+        "option_type": "text_field",
+        "option_text": "Long answer text"
+      }
+    ],
+    "media_type": "video",
+    "context": "Assesses listening comprehension, ability to understand narrative details, recall sequence, interpret character actions/emotions, and answer in complete sentences.",
+    "strand": "Listening and writing",
+    "assessment_des": "Listens attentively, understands narrative details, recalls sequence, and answers orally/written in complete sentences",
+    "difficulty": "Hard",
+    "story_description": "# The Lazy Son\n\n\n\nIn a prosperous town lived a wealthy moneylender who exemplified hard work. Every morning before sunrise, he visited the Shiv temple, then inspected his farms, shops, and stables. His son, Sumit, was the opposite—lazy and unwilling to work. While his father rose early, Sumit remained in bed, refusing his father's calls to help with the business.\n\nThe moneylender grew deeply disappointed, but his pleas fell on deaf ears. Years later, he fell ill and died, leaving his thriving business to Sumit and his wife. Yet Sumit showed no interest in managing the enterprise. Without his father's watchful presence, the business crumbled, and losses mounted rapidly.\n\nDesperate, Sumit's mother approached him. \"Son, our business is failing. We face enormous losses. You must help.\" Sumit confessed his ignorance. \"Mother, I know nothing of business. Father never taught me because I was always lazy.\"\n\nHis mother offered a solution. \"Your grandfather in the next village has great knowledge of this business. Go seek his wisdom.\"\n\nThe next morning, Sumit visited his grandfather and explained their situation. His grandfather listened and then revealed his advice: \"Follow your father's path exactly. Wake before sunrise, visit the Shiv temple, then inspect all your farms, shops, and stables every single day.\"\n\nSumit agreed eagerly and began the very next morning. He woke before dawn, visited the temple, and made his rounds through all his properties without fail.\n\nThe workers noticed this sudden change. They whispered among themselves: \"The boss now comes every day! We can no longer get away with our schemes.\" Fear gripped them—they had grown accustomed to stealing from the absent owner through various fraudulent practices. With Sumit present daily, they knew they would be caught.\n\nOne by one, the laborers abandoned their dishonest activities and began working honestly. As the scams ceased, so did the losses. The business stabilized, then flourished. Within weeks, prosperity returned to the family.\n\nGrateful and amazed, Sumit returned to his grandfather. \"Grandfather, you've performed a miracle! Our business thrives again because of your wisdom!\"\n\nHis grandfather smiled knowingly. \"My boy, I did nothing. You accomplished this through your own hard work. But understand—your previous wealth was lost because of your laziness. The workers exploited your absence and committed countless frauds. Now that you're present daily, they fear being caught and work honestly. Your discipline transformed everything.\"\n\nSumit finally understood the lesson his father had tried to teach him. Laziness had nearly destroyed his family's fortune, while dedication and hard work had restored it. From that moment, he abandoned his indolent ways and became a hardworking man, honoring his father's legacy.\n\n## Moral\n\nLaziness breeds problems and invites others to take advantage. Hard work, consistency, and dedication—even in small, daily efforts—inspire ",
+    "cognitive_steps_description": [
+      "Students need to pay attention to the details in the story as they watch it.",
+      "Students should focus on the dialogue and actions of the characters to determine who made the suggestion.",
+      "Students must understand the situation leading to the suggestion to provide a relevant answer.",
+      "Students should practice writing in complete sentences to convey their answer clearly."
+    ],
+    "max_score": 1,
+    "expected_time_in_sec": 45,
+    "correct_answer": {
+      "option_label": "a",
+      "option_text": "Sumit's mother suggests that he visit his grandfather for help."
+    }
+  },
+  {
+    "question_id": "L11C",
+    "question_number": 11,
+    "sub_question_label": "C",
+    "question_text": "Carefully watch and listen to the story \"Lazy Boy.\"\n\nAfter watching, answer the following questions in complete sentences:\n\nC. What advice does Sumit's grandfather give him?",
+    "image_description": "A video thumbnail or story illustration showing the title \"Lazy Son\" with an image of a woman (mother figure) in blue clothing looking concerned, and a boy (Sumit) lying down appearing lazy or inactive.",
+    "options": [
+      {
+        "option_label": "C",
+        "option_type": "text_field",
+        "option_text": "Long answer text"
+      }
+    ],
+    "media_type": "video",
+    "context": "Assesses listening comprehension, ability to understand narrative details, recall sequence, interpret character actions/emotions, and answer in complete sentences.",
+    "strand": "Listening and writing",
+    "assessment_des": "Listens attentively, understands narrative details, recalls sequence, and answers orally/written in complete sentences",
+    "difficulty": "Hard",
+    "story_description": "# The Lazy Son\n\n\n\nIn a prosperous town lived a wealthy moneylender who exemplified hard work. Every morning before sunrise, he visited the Shiv temple, then inspected his farms, shops, and stables. His son, Sumit, was the opposite—lazy and unwilling to work. While his father rose early, Sumit remained in bed, refusing his father's calls to help with the business.\n\nThe moneylender grew deeply disappointed, but his pleas fell on deaf ears. Years later, he fell ill and died, leaving his thriving business to Sumit and his wife. Yet Sumit showed no interest in managing the enterprise. Without his father's watchful presence, the business crumbled, and losses mounted rapidly.\n\nDesperate, Sumit's mother approached him. \"Son, our business is failing. We face enormous losses. You must help.\" Sumit confessed his ignorance. \"Mother, I know nothing of business. Father never taught me because I was always lazy.\"\n\nHis mother offered a solution. \"Your grandfather in the next village has great knowledge of this business. Go seek his wisdom.\"\n\nThe next morning, Sumit visited his grandfather and explained their situation. His grandfather listened and then revealed his advice: \"Follow your father's path exactly. Wake before sunrise, visit the Shiv temple, then inspect all your farms, shops, and stables every single day.\"\n\nSumit agreed eagerly and began the very next morning. He woke before dawn, visited the temple, and made his rounds through all his properties without fail.\n\nThe workers noticed this sudden change. They whispered among themselves: \"The boss now comes every day! We can no longer get away with our schemes.\" Fear gripped them—they had grown accustomed to stealing from the absent owner through various fraudulent practices. With Sumit present daily, they knew they would be caught.\n\nOne by one, the laborers abandoned their dishonest activities and began working honestly. As the scams ceased, so did the losses. The business stabilized, then flourished. Within weeks, prosperity returned to the family.\n\nGrateful and amazed, Sumit returned to his grandfather. \"Grandfather, you've performed a miracle! Our business thrives again because of your wisdom!\"\n\nHis grandfather smiled knowingly. \"My boy, I did nothing. You accomplished this through your own hard work. But understand—your previous wealth was lost because of your laziness. The workers exploited your absence and committed countless frauds. Now that you're present daily, they fear being caught and work honestly. Your discipline transformed everything.\"\n\nSumit finally understood the lesson his father had tried to teach him. Laziness had nearly destroyed his family's fortune, while dedication and hard work had restored it. From that moment, he abandoned his indolent ways and became a hardworking man, honoring his father's legacy.\n\n## Moral\n\nLaziness breeds problems and invites others to take advantage. Hard work, consistency, and dedication—even in small, daily efforts—inspire ",
+    "cognitive_steps_description": [
+      "Students need to attentively watch and listen to the story 'Lazy Boy' to gather information.",
+      "Students must remember and identify the specific advice that Sumit's grandfather provided to him.",
+      "Students should construct a complete sentence that clearly articulates the grandfather's advice."
+    ],
+    "max_score": 1,
+    "expected_time_in_sec": 45,
+    "correct_answer": {
+      "option_label": "a",
+      "option_text": "Sumit's grandfather advised him to wake up before sunrise, visit the Shiv temple, and inspect all his farms, shops, and stables every day."
+    }
+  },
+  {
+    "question_id": "L11D",
+    "question_number": 11,
+    "sub_question_label": "D",
+    "question_text": "Carefully watch and listen to the story \"Lazy Boy.\"\n\nAfter watching, answer the following questions in complete sentences:\n\nD. What changes when Sumit starts visiting the temple and goes to work every day?",
+    "image_description": "A video thumbnail or story illustration showing the title \"Lazy Son\" with an image of a woman (mother figure) in blue clothing looking concerned, and a boy (Sumit) lying down appearing lazy or inactive.",
+    "options": [
+      {
+        "option_label": "D",
+        "option_type": "text_field",
+        "option_text": "Long answer text"
+      }
+    ],
+    "media_type": "video",
+    "context": "Assesses listening comprehension, ability to understand narrative details, recall sequence, interpret character actions/emotions, and answer in complete sentences.",
+    "strand": "Listening and writing",
+    "assessment_des": "Listens attentively, understands narrative details, recalls sequence, and answers orally/written in complete sentences",
+    "difficulty": "Hard",
+    "story_description": "# The Lazy Son\n\n\n\nIn a prosperous town lived a wealthy moneylender who exemplified hard work. Every morning before sunrise, he visited the Shiv temple, then inspected his farms, shops, and stables. His son, Sumit, was the opposite—lazy and unwilling to work. While his father rose early, Sumit remained in bed, refusing his father's calls to help with the business.\n\nThe moneylender grew deeply disappointed, but his pleas fell on deaf ears. Years later, he fell ill and died, leaving his thriving business to Sumit and his wife. Yet Sumit showed no interest in managing the enterprise. Without his father's watchful presence, the business crumbled, and losses mounted rapidly.\n\nDesperate, Sumit's mother approached him. \"Son, our business is failing. We face enormous losses. You must help.\" Sumit confessed his ignorance. \"Mother, I know nothing of business. Father never taught me because I was always lazy.\"\n\nHis mother offered a solution. \"Your grandfather in the next village has great knowledge of this business. Go seek his wisdom.\"\n\nThe next morning, Sumit visited his grandfather and explained their situation. His grandfather listened and then revealed his advice: \"Follow your father's path exactly. Wake before sunrise, visit the Shiv temple, then inspect all your farms, shops, and stables every single day.\"\n\nSumit agreed eagerly and began the very next morning. He woke before dawn, visited the temple, and made his rounds through all his properties without fail.\n\nThe workers noticed this sudden change. They whispered among themselves: \"The boss now comes every day! We can no longer get away with our schemes.\" Fear gripped them—they had grown accustomed to stealing from the absent owner through various fraudulent practices. With Sumit present daily, they knew they would be caught.\n\nOne by one, the laborers abandoned their dishonest activities and began working honestly. As the scams ceased, so did the losses. The business stabilized, then flourished. Within weeks, prosperity returned to the family.\n\nGrateful and amazed, Sumit returned to his grandfather. \"Grandfather, you've performed a miracle! Our business thrives again because of your wisdom!\"\n\nHis grandfather smiled knowingly. \"My boy, I did nothing. You accomplished this through your own hard work. But understand—your previous wealth was lost because of your laziness. The workers exploited your absence and committed countless frauds. Now that you're present daily, they fear being caught and work honestly. Your discipline transformed everything.\"\n\nSumit finally understood the lesson his father had tried to teach him. Laziness had nearly destroyed his family's fortune, while dedication and hard work had restored it. From that moment, he abandoned his indolent ways and became a hardworking man, honoring his father's legacy.\n\n## Moral\n\nLaziness breeds problems and invites others to take advantage. Hard work, consistency, and dedication—even in small, daily efforts—inspire ",
+    "cognitive_steps_description": [
+      "Students need to pay close attention to the story to understand the narrative and character development.",
+      "Students should pinpoint specific actions taken by Sumit that signify a change in his attitude and work ethic.",
+      "Students must consider how Sumit's new routine affects the workers and the overall success of the business.",
+      "Students should construct a coherent response that summarizes their understanding of the changes and their consequences.",
+      "Students should check their response to ensure it is clear and answers the question fully."
+    ],
+    "max_score": 1,
+    "expected_time_in_sec": 45,
+    "correct_answer": {
+      "option_label": "a",
+      "option_text": "When Sumit starts visiting the temple and goes to work every day, he becomes responsible and hardworking, which leads to the business improving and the workers becoming honest."
+    }
+  }
+]
